@@ -1,0 +1,13 @@
+notebook
+matplotlib
+numpy
+pandas
+tqdm
+numpy
+pandas
+matplotlib
+scipy
+requests
+biopython
+xmltodict
+pylev
