@@ -1,0 +1,25 @@
+substrate_name,CAS_number,enzyme_reported_in,image_filename,class,donor_or_acceptor,DOI_source,miscellaneous_notes,available
+4-Nitrophenyl sulfate,1080-04-2,all,images/1080-04-2.png,donor,D,,,Y
+4-acetylphenyl sulfate,38533-41-4,all,images/38533-41-4.jpg,donor,D,,,N
+4-Methylumbelliferyl sulfate,15220-11-8,all,images/15220-11-8.jpg,donor,D,,,N
+p-Coumaric Acid,501-98-4,Q251M7,images/501-98-4.png,aromatics,A,10.1002/ejoc.201402875,Complete conversion of starting material to the monosulfated product,N
+6-Hydroxyflavone,6665-83-4,Q251M7,images/6665-83-4.png,flavonoids,A,10.1002/ejoc.201402876,,N
+5-Hydroxyflavone,491-78-1,Q251M7,images/491-78-1.jpg,flavonoids,A,10.1002/ejoc.201402876,,N
+Resveratrol,501-36-0,Q251M7,images/501-36-0.png,aromatics,A,10.1002/ejoc.201402877,Can be sulfated at multiple positions (up to all 3) with sufficient addition of PNPS,N
+Quercetin,117-39-5,Q251M7,images/117-39-5.png,flavonoids,A,10.1002/ejoc.201402878,,N
+2-Phenylphenol,90-43-7,Q251M7,images/90-43-7.png,aromatics,A,10.1002/ejoc.201402879,,N
+2;2-biphenol,1806-29-7,Q251M7,images/1806-29-7.png,aromatics,A,10.1002/ejoc.201402880,,N
+phenol,108-95-2,,images/108-95-2.png,aromatics,A,,,N
+tyramine,51-67-2,,images/51-67-2.png,aromatics,A,,,N
+resorcinol,108-46-3,,images/108-46-3.png,aromatics,A,,,N
+epinephrine,51-43-4,,images/51-43-4.png,hormones,A,,,N
+dopamine,51-61-6,,images/51-61-6.png,hormones,A,,,N
+tanshinol,81075-52-7,,images/81075-52-7.png,foods,A,,also frequently (dominantly) called actually Danshensu,N
+taxifolin,480-18-2,,images/480-18-2.png,flavonoids,A,,,N
+EpicatechinÊ,490-46-0,,images/490-46-0.jpg,flavonoids,A,,,N
+glucose,50-99-7,,images/50-99-7.png,carbohydrates,A,,,N
+N-acetylglucosamine,7512-17-6,,images/7512-17-6.png,carbohydrates,A,,,N
+cellobiose,528-50-7,,images/528-50-7.png,carbohydrates,A,,,N
+amoxicillin,26787-78-0,,images/26787-78-0.png,antibiotics,A,,,N
+tetracycline (possible),60-54-8,,images/60-54-8.png,antibiotics,A,,,N
+Dehydroepiandrosterone (possible),53-43-0,,images/53-43-0.png,steroids,A,,,N
