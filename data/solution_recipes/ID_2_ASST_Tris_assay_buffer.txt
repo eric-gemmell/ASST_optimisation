@@ -1,0 +1,10 @@
+Buffer used to run activity assay experimente for all ASST enzymes in MTP format, basically just a 100 mM Tris HCl solution buffered to pH 9
+
+Contents:
+ - 100 mM Tris, 121.14 g.mol^-1, 12.114 g.L^-1
+
+Preparation:
+Mix ingredients with miliq water and buffer by adding HCl until pH 9 is reached.
+
+Notes:
+
