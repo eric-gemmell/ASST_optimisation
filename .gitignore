@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 .ssh/
 .Trash-0/
+data/ASST_processed_sequences/*

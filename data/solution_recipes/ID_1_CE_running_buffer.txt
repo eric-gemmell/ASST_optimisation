@@ -1,0 +1,11 @@
+Buffer used for running Capillary Electrophoresis experiments, simply a 70mM NH4OAc solution with 1 mM EDTA at pH 9.2
+
+Contents:
+ - 70 mM ammonium acetate, 77.08 g.mol^-1, 5.39 g.L^-1
+ - 1 mM EDTA, 292.24 g.mol^-1, 0.292 g.L^-1
+
+Prep:
+Mix ingredients and buffer to pH 9.2 by adding ammonia solution (>20% ammonia used when dealing with volume >= 1L for speed)
+
+Notes:
+This solution lasts 1 week, before needing to be remade, as NH4OAc is volatile and tends to disapear
