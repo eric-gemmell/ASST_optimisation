@@ -107,7 +107,7 @@ if __name__=='__main__':
         for eps in eps_test_vals:
 
             testset = encode_seqs(df.sample(frac=0.25).sequence.tolist(), max_len=L)
-            clustering = DBSCAN(eps=eps, min_samples=args.min_samples).fit(testset)
+            clustering = DBSCAN(eps=eps, min_samples=int(args.min_samples)).fit(testset)
             n_clust = len(set(clustering.labels_))
             n_not_clustered = len(clustering.labels_[np.where(clustering.labels_==-1)])
             lprint('%.2f\t%d\t%d' % (eps, n_clust, n_not_clustered),f)
@@ -122,7 +122,7 @@ if __name__=='__main__':
 
     # perform actual clustering
 
-    clustering = DBSCAN(eps=eps_to_select, min_samples=args.min_samples).fit(ohe_seqs)
+    clustering = DBSCAN(eps=eps_to_select, min_samples=int(args.min_samples)).fit(ohe_seqs)
 
     lprint('Selected eps=%.2f' % eps_to_select,f)
 
