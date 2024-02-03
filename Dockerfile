@@ -10,6 +10,8 @@ RUN apt-get install -y vim tree curl
 RUN apt-get install -y ncbi-blast+
 RUN apt-get install -y hmmer
 RUN apt-get install -y iqtree
+RUN apt-get install -y clustalo
+RUN apt-get install -y cd-hit
 
 COPY requirements.txt .
 RUN pip3 install -r requirements.txt
