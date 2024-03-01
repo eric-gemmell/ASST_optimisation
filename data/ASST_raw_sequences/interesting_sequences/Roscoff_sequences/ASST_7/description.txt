@@ -1,0 +1,4 @@
+-Code uniprot : A0A1I1VXC9_9BACI
+NCBI : https://www.ncbi.nlm.nih.gov/datasets/taxonomy/640948/
+NCBI accession : SAMN05216238
+

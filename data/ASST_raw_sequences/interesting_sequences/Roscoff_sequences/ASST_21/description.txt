@@ -1,0 +1,5 @@
+-Code uniprot : A0A5C5X2D6_9PLAN
+NCBI : https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_007859735.1/ 
+NCBI accession :  SAMN06241735
+
+

@@ -1,0 +1,7 @@
+-Code uniprot : A0A0H3BU60_SALNS
+Article : Journal of bacteriology: 193(14):3556-68 Comparative genomics of 28 Salmonella enterica isolates: evidence for CRISPR-mediated adaptive sublineage evolution.
+PubMed: 21602358 DOI: 10.1128/JB.00297-11
+GOLD : https://gold.jgi.doe.gov/project?id=Gp0001879
+Cultured
+NCBI accession :  SAMN02604062
+

@@ -1,0 +1,3 @@
+--Code uniprot : A0A356IB63_9BACT
+NCBI : https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_003509065.1/
+NCBI accession :  SAMN08019013

@@ -1,0 +1,4 @@
+-Code uniprot :  B1V6L7_CLOPF
+-NCBI : https://www.uniprot.org/uniprotkb/B1V6L7/entry#sequences
+-NCBI accession : SAMN02436277
+

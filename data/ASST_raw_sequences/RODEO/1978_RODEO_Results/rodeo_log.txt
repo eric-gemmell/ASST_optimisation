@@ -1,0 +1,1245 @@
+2024-01-05 12:01:15,787 - entrez_utils - INFO - Fetching WP_000016462.1 data from GenBank.
+2024-01-05 12:01:29,744 - entrez_utils - INFO - Parsing WP_000016462.1 handle.
+2024-01-05 12:01:30,843 - record_processing - INFO - Worker process 1 is processing WP_000016462.1
+2024-01-05 12:01:30,844 - entrez_utils - INFO - Fetching WP_001035146.1 data from GenBank.
+2024-01-05 12:01:33,007 - entrez_utils - INFO - Parsing WP_001035146.1 handle.
+2024-01-05 12:01:34,376 - entrez_utils - INFO - Fetching WP_006568896.1 data from GenBank.
+2024-01-05 12:01:34,376 - record_processing - INFO - Worker process 4 is processing WP_001035146.1
+2024-01-05 12:01:37,077 - entrez_utils - INFO - Parsing WP_006568896.1 handle.
+2024-01-05 12:01:48,864 - rodeo_main - INFO - Writing output for query #1.	WP_000016462.1
+2024-01-05 12:01:49,656 - entrez_utils - INFO - Fetching WP_003534854.1 data from GenBank.
+2024-01-05 12:01:49,678 - record_processing - INFO - Worker process 2 is processing WP_006568896.1
+2024-01-05 12:01:52,232 - rodeo_main - INFO - Writing output for query #2.	WP_001035146.1
+2024-01-05 12:01:52,711 - entrez_utils - INFO - Parsing WP_003534854.1 handle.
+2024-01-05 12:02:01,671 - entrez_utils - INFO - Fetching WP_004606839.1 data from GenBank.
+2024-01-05 12:02:01,700 - record_processing - INFO - Worker process 6 is processing WP_003534854.1
+2024-01-05 12:02:04,418 - entrez_utils - INFO - Parsing WP_004606839.1 handle.
+2024-01-05 12:02:06,584 - rodeo_main - INFO - Writing output for query #3.	WP_006568896.1
+2024-01-05 12:02:15,245 - entrez_utils - INFO - Fetching WP_006873886.1 data from GenBank.
+2024-01-05 12:02:15,274 - record_processing - INFO - Worker process 5 is processing WP_004606839.1
+2024-01-05 12:02:17,797 - rodeo_main - INFO - Writing output for query #4.	WP_003534854.1
+2024-01-05 12:02:17,940 - entrez_utils - INFO - Parsing WP_006873886.1 handle.
+2024-01-05 12:02:27,744 - entrez_utils - INFO - Fetching WP_012337178.1 data from GenBank.
+2024-01-05 12:02:27,766 - record_processing - INFO - Worker process 7 is processing WP_006873886.1
+2024-01-05 12:02:29,904 - entrez_utils - INFO - Parsing WP_012337178.1 handle.
+2024-01-05 12:02:29,973 - entrez_utils - INFO - Fetching WP_012426515.1 data from GenBank.
+2024-01-05 12:02:29,987 - record_processing - INFO - Worker process 3 is processing WP_012337178.1
+2024-01-05 12:02:32,496 - rodeo_main - INFO - Writing output for query #5.	WP_004606839.1
+2024-01-05 12:02:33,310 - entrez_utils - INFO - Parsing WP_012426515.1 handle.
+2024-01-05 12:02:43,151 - entrez_utils - INFO - Fetching WP_012493820.1 data from GenBank.
+2024-01-05 12:02:43,192 - record_processing - INFO - Worker process 1 is processing WP_012426515.1
+2024-01-05 12:02:45,178 - entrez_utils - INFO - Parsing WP_012493820.1 handle.
+2024-01-05 12:02:45,264 - record_processing - INFO - Worker process 4 is processing WP_012493820.1
+2024-01-05 12:02:45,267 - entrez_utils - INFO - Fetching WP_000669889.1 data from GenBank.
+2024-01-05 12:02:47,643 - entrez_utils - INFO - Parsing WP_000669889.1 handle.
+2024-01-05 12:02:48,056 - record_processing - INFO - Worker process 2 is processing WP_000669889.1
+2024-01-05 12:02:48,059 - entrez_utils - INFO - Fetching WP_001036514.1 data from GenBank.
+2024-01-05 12:02:49,091 - rodeo_main - INFO - Writing output for query #6.	WP_006873886.1
+2024-01-05 12:02:51,099 - entrez_utils - INFO - Parsing WP_001036514.1 handle.
+2024-01-05 12:02:52,075 - entrez_utils - INFO - Fetching WP_001094809.1 data from GenBank.
+2024-01-05 12:02:52,089 - record_processing - INFO - Worker process 6 is processing WP_001036514.1
+2024-01-05 12:02:54,434 - entrez_utils - INFO - Parsing WP_001094809.1 handle.
+2024-01-05 12:02:54,869 - record_processing - INFO - Worker process 5 is processing WP_001094809.1
+2024-01-05 12:02:54,872 - entrez_utils - INFO - Fetching WP_001036511.1 data from GenBank.
+2024-01-05 12:02:55,839 - rodeo_main - INFO - Writing output for query #7.	WP_012337178.1
+2024-01-05 12:02:57,342 - entrez_utils - INFO - Parsing WP_001036511.1 handle.
+2024-01-05 12:02:58,388 - record_processing - INFO - Worker process 7 is processing WP_001036511.1
+2024-01-05 12:02:58,392 - entrez_utils - INFO - Fetching WP_001094889.1 data from GenBank.
+2024-01-05 12:03:01,125 - entrez_utils - INFO - Parsing WP_001094889.1 handle.
+2024-01-05 12:03:02,111 - entrez_utils - INFO - Fetching WP_000669891.1 data from GenBank.
+2024-01-05 12:03:02,120 - record_processing - INFO - Worker process 3 is processing WP_001094889.1
+2024-01-05 12:03:06,098 - entrez_utils - INFO - Parsing WP_000669891.1 handle.
+2024-01-05 12:03:16,372 - entrez_utils - INFO - Fetching WP_004815437.1 data from GenBank.
+2024-01-05 12:03:18,759 - entrez_utils - INFO - Parsing WP_004815437.1 handle.
+2024-01-05 12:03:19,801 - entrez_utils - INFO - Fetching WP_003864104.1 data from GenBank.
+2024-01-05 12:03:22,079 - entrez_utils - INFO - Parsing WP_003864104.1 handle.
+2024-01-05 12:03:22,510 - entrez_utils - INFO - Fetching WP_000509955.1 data from GenBank.
+2024-01-05 12:03:25,111 - entrez_utils - INFO - Parsing WP_000509955.1 handle.
+2024-01-05 12:03:29,409 - entrez_utils - INFO - Fetching WP_000459855.1 data from GenBank.
+2024-01-05 12:03:30,478 - rodeo_main - INFO - Writing output for query #8.	WP_000669889.1
+2024-01-05 12:03:30,747 - record_processing - INFO - Worker process 2 is processing WP_000669891.1
+2024-01-05 12:03:31,348 - rodeo_main - INFO - Writing output for query #9.	WP_012426515.1
+2024-01-05 12:03:31,352 - record_processing - INFO - Worker process 1 is processing WP_004815437.1
+2024-01-05 12:03:33,093 - entrez_utils - INFO - Parsing WP_000459855.1 handle.
+2024-01-05 12:03:42,343 - record_processing - INFO - Worker process 4 is processing WP_003864104.1
+2024-01-05 12:03:42,347 - rodeo_main - INFO - Writing output for query #10.	WP_012493820.1
+2024-01-05 12:03:42,675 - rodeo_main - INFO - Writing output for query #11.	WP_001036514.1
+2024-01-05 12:03:42,687 - record_processing - INFO - Worker process 6 is processing WP_000509955.1
+2024-01-05 12:03:43,994 - entrez_utils - INFO - Fetching WP_003055409.1 data from GenBank.
+2024-01-05 12:03:47,346 - entrez_utils - INFO - Parsing WP_003055409.1 handle.
+2024-01-05 12:03:52,325 - rodeo_main - INFO - Writing output for query #12.	WP_001094809.1
+2024-01-05 12:03:52,419 - record_processing - INFO - Worker process 5 is processing WP_000459855.1
+2024-01-05 12:03:57,584 - rodeo_main - INFO - Writing output for query #13.	WP_001036511.1
+2024-01-05 12:03:59,686 - rodeo_main - INFO - Writing output for query #14.	WP_001094889.1
+2024-01-05 12:04:03,593 - entrez_utils - INFO - Fetching WP_012589455.1 data from GenBank.
+2024-01-05 12:04:03,636 - record_processing - INFO - Worker process 7 is processing WP_003055409.1
+2024-01-05 12:04:07,206 - entrez_utils - INFO - Parsing WP_012589455.1 handle.
+2024-01-05 12:04:19,120 - entrez_utils - INFO - Fetching WP_012609679.1 data from GenBank.
+2024-01-05 12:04:19,221 - record_processing - INFO - Worker process 3 is processing WP_012589455.1
+2024-01-05 12:04:22,203 - entrez_utils - INFO - Parsing WP_012609679.1 handle.
+2024-01-05 12:04:24,858 - rodeo_main - INFO - Writing output for query #15.	WP_004815437.1
+2024-01-05 12:04:25,653 - rodeo_main - INFO - Writing output for query #16.	WP_000669891.1
+2024-01-05 12:04:30,610 - rodeo_main - INFO - Writing output for query #17.	WP_003864104.1
+2024-01-05 12:04:34,935 - rodeo_main - INFO - Writing output for query #18.	WP_000509955.1
+2024-01-05 12:04:35,734 - entrez_utils - INFO - Fetching WP_015943679.1 data from GenBank.
+2024-01-05 12:04:35,796 - record_processing - INFO - Worker process 1 is processing WP_012609679.1
+2024-01-05 12:04:38,834 - entrez_utils - INFO - Parsing WP_015943679.1 handle.
+2024-01-05 12:04:39,124 - rodeo_main - INFO - Writing output for query #19.	WP_000459855.1
+2024-01-05 12:04:44,572 - rodeo_main - INFO - Writing output for query #20.	WP_003055409.1
+2024-01-05 12:04:51,947 - rodeo_main - INFO - Writing output for query #21.	WP_012589455.1
+2024-01-05 12:04:52,573 - entrez_utils - INFO - Fetching WP_015943680.1 data from GenBank.
+2024-01-05 12:04:52,624 - record_processing - INFO - Worker process 2 is processing WP_015943679.1
+2024-01-05 12:04:56,135 - entrez_utils - INFO - Parsing WP_015943680.1 handle.
+2024-01-05 12:04:56,482 - rodeo_main - INFO - Writing output for query #22.	WP_012609679.1
+2024-01-05 12:05:08,718 - entrez_utils - INFO - Fetching WP_015943046.1 data from GenBank.
+2024-01-05 12:05:08,758 - record_processing - INFO - Worker process 4 is processing WP_015943680.1
+2024-01-05 12:05:08,853 - rodeo_main - INFO - Writing output for query #23.	WP_015943679.1
+2024-01-05 12:05:12,334 - entrez_utils - INFO - Parsing WP_015943046.1 handle.
+2024-01-05 12:05:22,584 - entrez_utils - INFO - Fetching WP_015942610.1 data from GenBank.
+2024-01-05 12:05:22,625 - record_processing - INFO - Worker process 6 is processing WP_015943046.1
+2024-01-05 12:05:24,739 - rodeo_main - INFO - Writing output for query #24.	WP_015943680.1
+2024-01-05 12:05:26,124 - entrez_utils - INFO - Parsing WP_015942610.1 handle.
+2024-01-05 12:05:36,061 - entrez_utils - INFO - Fetching WP_000509955.1 data from GenBank.
+2024-01-05 12:05:36,128 - record_processing - INFO - Worker process 5 is processing WP_015942610.1
+2024-01-05 12:05:38,594 - entrez_utils - INFO - Parsing WP_000509955.1 handle.
+2024-01-05 12:05:39,227 - rodeo_main - INFO - Writing output for query #25.	WP_015943046.1
+2024-01-05 12:05:41,516 - record_processing - INFO - Worker process 7 is processing WP_000509955.1
+2024-01-05 12:05:41,520 - entrez_utils - INFO - Fetching WP_006057850.1 data from GenBank.
+2024-01-05 12:05:43,771 - entrez_utils - INFO - Parsing WP_006057850.1 handle.
+2024-01-05 12:05:44,204 - entrez_utils - INFO - Fetching WP_006444356.1 data from GenBank.
+2024-01-05 12:05:44,206 - record_processing - INFO - Worker process 3 is processing WP_006057850.1
+2024-01-05 12:05:47,552 - entrez_utils - INFO - Parsing WP_006444356.1 handle.
+2024-01-05 12:05:57,509 - entrez_utils - INFO - Fetching WP_005945936.1 data from GenBank.
+2024-01-05 12:05:57,591 - record_processing - INFO - Worker process 1 is processing WP_006444356.1
+2024-01-05 12:06:00,076 - rodeo_main - INFO - Writing output for query #26.	WP_015942610.1
+2024-01-05 12:06:00,939 - entrez_utils - INFO - Parsing WP_005945936.1 handle.
+2024-01-05 12:06:05,791 - rodeo_main - INFO - Writing output for query #27.	WP_000509955.1
+2024-01-05 12:06:10,466 - entrez_utils - INFO - Fetching WP_007713627.1 data from GenBank.
+2024-01-05 12:06:10,496 - record_processing - INFO - Worker process 2 is processing WP_005945936.1
+2024-01-05 12:06:11,218 - rodeo_main - INFO - Writing output for query #28.	WP_006057850.1
+2024-01-05 12:06:14,395 - entrez_utils - INFO - Parsing WP_007713627.1 handle.
+2024-01-05 12:06:18,326 - rodeo_main - INFO - Writing output for query #29.	WP_006444356.1
+2024-01-05 12:06:27,384 - rodeo_main - INFO - Writing output for query #30.	WP_005945936.1
+2024-01-05 12:06:29,730 - entrez_utils - INFO - Fetching WP_000669898.1 data from GenBank.
+2024-01-05 12:06:29,793 - record_processing - INFO - Worker process 4 is processing WP_007713627.1
+2024-01-05 12:06:32,063 - entrez_utils - INFO - Parsing WP_000669898.1 handle.
+2024-01-05 12:06:33,106 - record_processing - INFO - Worker process 6 is processing WP_000669898.1
+2024-01-05 12:06:33,113 - entrez_utils - INFO - Fetching WP_012699491.1 data from GenBank.
+2024-01-05 12:06:35,299 - entrez_utils - INFO - Parsing WP_012699491.1 handle.
+2024-01-05 12:06:35,518 - record_processing - INFO - Worker process 5 is processing WP_012699491.1
+2024-01-05 12:06:35,522 - entrez_utils - INFO - Fetching WP_015896795.1 data from GenBank.
+2024-01-05 12:06:38,700 - entrez_utils - INFO - Parsing WP_015896795.1 handle.
+2024-01-05 12:06:49,428 - entrez_utils - INFO - Fetching WP_015861782.1 data from GenBank.
+2024-01-05 12:06:49,623 - record_processing - INFO - Worker process 7 is processing WP_015896795.1
+2024-01-05 12:06:51,247 - rodeo_main - INFO - Writing output for query #31.	WP_012699491.1
+2024-01-05 12:06:52,359 - entrez_utils - INFO - Parsing WP_015861782.1 handle.
+2024-01-05 12:06:53,515 - rodeo_main - INFO - Writing output for query #32.	WP_007713627.1
+2024-01-05 12:06:54,507 - rodeo_main - INFO - Writing output for query #33.	WP_000669898.1
+2024-01-05 12:07:06,109 - entrez_utils - INFO - Fetching WP_012764970.1 data from GenBank.
+2024-01-05 12:07:06,156 - record_processing - INFO - Worker process 3 is processing WP_015861782.1
+2024-01-05 12:07:07,923 - rodeo_main - INFO - Writing output for query #34.	WP_015896795.1
+2024-01-05 12:07:09,659 - entrez_utils - INFO - Parsing WP_012764970.1 handle.
+2024-01-05 12:07:21,514 - entrez_utils - INFO - Fetching WP_012770317.1 data from GenBank.
+2024-01-05 12:07:21,540 - record_processing - INFO - Worker process 1 is processing WP_012764970.1
+2024-01-05 12:07:22,234 - rodeo_main - INFO - Writing output for query #35.	WP_015861782.1
+2024-01-05 12:07:25,680 - entrez_utils - INFO - Parsing WP_012770317.1 handle.
+2024-01-05 12:07:37,738 - rodeo_main - INFO - Writing output for query #36.	WP_012764970.1
+2024-01-05 12:07:38,630 - entrez_utils - INFO - Fetching WP_015846642.1 data from GenBank.
+2024-01-05 12:07:38,649 - record_processing - INFO - Worker process 2 is processing WP_012770317.1
+2024-01-05 12:07:42,793 - entrez_utils - INFO - Parsing WP_015846642.1 handle.
+2024-01-05 12:07:54,941 - rodeo_main - INFO - Writing output for query #37.	WP_012770317.1
+2024-01-05 12:08:02,927 - entrez_utils - INFO - Fetching WP_015839702.1 data from GenBank.
+2024-01-05 12:08:02,958 - record_processing - INFO - Worker process 5 is processing WP_015846642.1
+2024-01-05 12:08:05,758 - entrez_utils - INFO - Parsing WP_015839702.1 handle.
+2024-01-05 12:08:17,767 - entrez_utils - INFO - Fetching WP_015782492.1 data from GenBank.
+2024-01-05 12:08:17,788 - record_processing - INFO - Worker process 4 is processing WP_015839702.1
+2024-01-05 12:08:19,368 - rodeo_main - INFO - Writing output for query #38.	WP_015846642.1
+2024-01-05 12:08:21,048 - entrez_utils - INFO - Parsing WP_015782492.1 handle.
+2024-01-05 12:08:29,041 - entrez_utils - INFO - Fetching WP_015763017.1 data from GenBank.
+2024-01-05 12:08:29,054 - record_processing - INFO - Worker process 6 is processing WP_015782492.1
+2024-01-05 12:08:31,733 - entrez_utils - INFO - Parsing WP_015763017.1 handle.
+2024-01-05 12:08:34,572 - rodeo_main - INFO - Writing output for query #39.	WP_015839702.1
+2024-01-05 12:08:44,336 - entrez_utils - INFO - Fetching WP_012807934.1 data from GenBank.
+2024-01-05 12:08:44,348 - record_processing - INFO - Worker process 7 is processing WP_015763017.1
+2024-01-05 12:08:45,913 - rodeo_main - INFO - Writing output for query #40.	WP_015782492.1
+2024-01-05 12:08:47,358 - entrez_utils - INFO - Parsing WP_012807934.1 handle.
+2024-01-05 12:08:55,201 - entrez_utils - INFO - Fetching WP_012807951.1 data from GenBank.
+2024-01-05 12:08:55,242 - record_processing - INFO - Worker process 3 is processing WP_012807934.1
+2024-01-05 12:08:59,391 - entrez_utils - INFO - Parsing WP_012807951.1 handle.
+2024-01-05 12:09:00,348 - rodeo_main - INFO - Writing output for query #41.	WP_015763017.1
+2024-01-05 12:09:06,736 - entrez_utils - INFO - Fetching WP_012859957.1 data from GenBank.
+2024-01-05 12:09:06,753 - record_processing - INFO - Worker process 1 is processing WP_012807951.1
+2024-01-05 12:09:10,087 - entrez_utils - INFO - Parsing WP_012859957.1 handle.
+2024-01-05 12:09:10,900 - rodeo_main - INFO - Writing output for query #42.	WP_012807934.1
+2024-01-05 12:09:21,123 - entrez_utils - INFO - Fetching WP_004374129.1 data from GenBank.
+2024-01-05 12:09:21,151 - record_processing - INFO - Worker process 2 is processing WP_012859957.1
+2024-01-05 12:09:22,774 - rodeo_main - INFO - Writing output for query #43.	WP_012807951.1
+2024-01-05 12:09:23,239 - entrez_utils - INFO - Parsing WP_004374129.1 handle.
+2024-01-05 12:09:24,226 - entrez_utils - INFO - Fetching WP_004825321.1 data from GenBank.
+2024-01-05 12:09:24,234 - record_processing - INFO - Worker process 5 is processing WP_004374129.1
+2024-01-05 12:09:26,454 - entrez_utils - INFO - Parsing WP_004825321.1 handle.
+2024-01-05 12:09:26,900 - record_processing - INFO - Worker process 4 is processing WP_004825321.1
+2024-01-05 12:09:26,904 - entrez_utils - INFO - Fetching WP_004165275.1 data from GenBank.
+2024-01-05 12:09:29,097 - entrez_utils - INFO - Parsing WP_004165275.1 handle.
+2024-01-05 12:09:30,363 - entrez_utils - INFO - Fetching WP_012944251.1 data from GenBank.
+2024-01-05 12:09:30,383 - record_processing - INFO - Worker process 6 is processing WP_004165275.1
+2024-01-05 12:09:33,704 - entrez_utils - INFO - Parsing WP_012944251.1 handle.
+2024-01-05 12:09:47,149 - entrez_utils - INFO - Fetching WP_012905482.1 data from GenBank.
+2024-01-05 12:09:47,167 - record_processing - INFO - Worker process 7 is processing WP_012944251.1
+2024-01-05 12:09:51,485 - entrez_utils - INFO - Parsing WP_012905482.1 handle.
+2024-01-05 12:09:52,860 - rodeo_main - INFO - Writing output for query #44.	WP_012859957.1
+2024-01-05 12:09:54,304 - rodeo_main - INFO - Writing output for query #45.	WP_004374129.1
+2024-01-05 12:09:54,551 - rodeo_main - INFO - Writing output for query #46.	WP_004825321.1
+2024-01-05 12:10:00,584 - rodeo_main - INFO - Writing output for query #47.	WP_004165275.1
+2024-01-05 12:10:05,376 - entrez_utils - INFO - Fetching WP_006770814.1 data from GenBank.
+2024-01-05 12:10:05,401 - record_processing - INFO - Worker process 3 is processing WP_012905482.1
+2024-01-05 12:10:08,390 - rodeo_main - INFO - Writing output for query #48.	WP_012944251.1
+2024-01-05 12:10:09,602 - entrez_utils - INFO - Parsing WP_006770814.1 handle.
+2024-01-05 12:10:21,617 - rodeo_main - INFO - Writing output for query #49.	WP_012905482.1
+2024-01-05 12:10:26,721 - entrez_utils - INFO - Fetching WP_006775197.1 data from GenBank.
+2024-01-05 12:10:26,757 - record_processing - INFO - Worker process 1 is processing WP_006770814.1
+2024-01-05 12:10:29,022 - entrez_utils - INFO - Parsing WP_006775197.1 handle.
+2024-01-05 12:10:29,095 - entrez_utils - INFO - Fetching WP_015735820.1 data from GenBank.
+2024-01-05 12:10:29,096 - record_processing - INFO - Worker process 2 is processing WP_006775197.1
+2024-01-05 12:10:32,621 - entrez_utils - INFO - Parsing WP_015735820.1 handle.
+2024-01-05 12:10:42,903 - rodeo_main - INFO - Writing output for query #50.	WP_006775197.1
+2024-01-05 12:10:44,925 - rodeo_main - INFO - Writing output for query #51.	WP_006770814.1
+2024-01-05 12:10:47,282 - entrez_utils - INFO - Fetching WP_023294976.1 data from GenBank.
+2024-01-05 12:10:47,301 - record_processing - INFO - Worker process 5 is processing WP_015735820.1
+2024-01-05 12:10:49,671 - entrez_utils - INFO - Parsing WP_023294976.1 handle.
+2024-01-05 12:10:52,657 - entrez_utils - INFO - Fetching WP_005973321.1 data from GenBank.
+2024-01-05 12:10:52,665 - record_processing - INFO - Worker process 4 is processing WP_023294976.1
+2024-01-05 12:10:54,929 - entrez_utils - INFO - Parsing WP_005973321.1 handle.
+2024-01-05 12:10:55,854 - record_processing - INFO - Worker process 6 is processing WP_005973321.1
+2024-01-05 12:10:55,858 - entrez_utils - INFO - Fetching WP_008820770.1 data from GenBank.
+2024-01-05 12:10:58,246 - entrez_utils - INFO - Parsing WP_008820770.1 handle.
+2024-01-05 12:11:01,053 - entrez_utils - INFO - Fetching WP_004378523.1 data from GenBank.
+2024-01-05 12:11:01,059 - record_processing - INFO - Worker process 7 is processing WP_008820770.1
+2024-01-05 12:11:03,202 - entrez_utils - INFO - Parsing WP_004378523.1 handle.
+2024-01-05 12:11:03,704 - record_processing - INFO - Worker process 3 is processing WP_004378523.1
+2024-01-05 12:11:03,763 - entrez_utils - INFO - Fetching WP_009345724.1 data from GenBank.
+2024-01-05 12:11:05,960 - entrez_utils - INFO - Parsing WP_009345724.1 handle.
+2024-01-05 12:11:07,074 - entrez_utils - INFO - Fetching WP_013238488.1 data from GenBank.
+2024-01-05 12:11:07,081 - record_processing - INFO - Worker process 2 is processing WP_009345724.1
+2024-01-05 12:11:09,252 - entrez_utils - INFO - Parsing WP_013238488.1 handle.
+2024-01-05 12:11:09,706 - record_processing - INFO - Worker process 1 is processing WP_013238488.1
+2024-01-05 12:11:09,712 - entrez_utils - INFO - Fetching WP_008417803.1 data from GenBank.
+2024-01-05 12:11:11,986 - entrez_utils - INFO - Parsing WP_008417803.1 handle.
+2024-01-05 12:11:12,428 - entrez_utils - INFO - Fetching WP_010073570.1 data from GenBank.
+2024-01-05 12:11:13,192 - rodeo_main - INFO - Writing output for query #52.	WP_015735820.1
+2024-01-05 12:11:13,200 - record_processing - INFO - Worker process 5 is processing WP_008417803.1
+2024-01-05 12:11:15,469 - entrez_utils - INFO - Parsing WP_010073570.1 handle.
+2024-01-05 12:11:29,195 - entrez_utils - INFO - Fetching WP_006037328.1 data from GenBank.
+2024-01-05 12:11:31,556 - entrez_utils - INFO - Parsing WP_006037328.1 handle.
+2024-01-05 12:11:33,076 - entrez_utils - INFO - Fetching WP_004165660.1 data from GenBank.
+2024-01-05 12:11:35,818 - rodeo_main - INFO - Writing output for query #53.	WP_023294976.1
+2024-01-05 12:11:35,903 - entrez_utils - INFO - Parsing WP_004165660.1 handle.
+2024-01-05 12:11:35,907 - record_processing - INFO - Worker process 4 is processing WP_010073570.1
+2024-01-05 12:11:42,525 - entrez_utils - INFO - Fetching WP_005994353.1 data from GenBank.
+2024-01-05 12:11:44,889 - entrez_utils - INFO - Parsing WP_005994353.1 handle.
+2024-01-05 12:11:45,185 - entrez_utils - INFO - Fetching WP_013382661.1 data from GenBank.
+2024-01-05 12:11:47,822 - entrez_utils - INFO - Parsing WP_013382661.1 handle.
+2024-01-05 12:11:50,409 - rodeo_main - INFO - Writing output for query #54.	WP_005973321.1
+2024-01-05 12:11:50,413 - record_processing - INFO - Worker process 6 is processing WP_006037328.1
+2024-01-05 12:11:51,594 - entrez_utils - INFO - Fetching WP_005956910.1 data from GenBank.
+2024-01-05 12:11:54,013 - entrez_utils - INFO - Parsing WP_005956910.1 handle.
+2024-01-05 12:11:54,284 - rodeo_main - INFO - Writing output for query #55.	WP_008820770.1
+2024-01-05 12:11:54,296 - record_processing - INFO - Worker process 7 is processing WP_004165660.1
+2024-01-05 12:11:54,917 - entrez_utils - INFO - Fetching WP_002675364.1 data from GenBank.
+2024-01-05 12:11:57,551 - entrez_utils - INFO - Parsing WP_002675364.1 handle.
+2024-01-05 12:12:04,840 - rodeo_main - INFO - Writing output for query #56.	WP_004378523.1
+2024-01-05 12:12:04,842 - record_processing - INFO - Worker process 3 is processing WP_005994353.1
+2024-01-05 12:12:05,443 - entrez_utils - INFO - Fetching WP_006053533.1 data from GenBank.
+2024-01-05 12:12:07,778 - entrez_utils - INFO - Parsing WP_006053533.1 handle.
+2024-01-05 12:12:07,947 - rodeo_main - INFO - Writing output for query #57.	WP_013238488.1
+2024-01-05 12:12:07,953 - record_processing - INFO - Worker process 1 is processing WP_013382661.1
+2024-01-05 12:12:08,173 - entrez_utils - INFO - Fetching WP_009001213.1 data from GenBank.
+2024-01-05 12:12:08,191 - rodeo_main - INFO - Writing output for query #58.	WP_009345724.1
+2024-01-05 12:12:08,193 - record_processing - INFO - Worker process 2 is processing WP_005956910.1
+2024-01-05 12:12:11,066 - rodeo_main - INFO - Writing output for query #59.	WP_008417803.1
+2024-01-05 12:12:11,095 - record_processing - INFO - Worker process 5 is processing WP_002675364.1
+2024-01-05 12:12:12,039 - entrez_utils - INFO - Parsing WP_009001213.1 handle.
+2024-01-05 12:12:30,339 - entrez_utils - INFO - Fetching WP_009380128.1 data from GenBank.
+2024-01-05 12:12:31,993 - rodeo_main - INFO - Writing output for query #60.	WP_010073570.1
+2024-01-05 12:12:31,995 - record_processing - INFO - Worker process 4 is processing WP_006053533.1
+2024-01-05 12:12:33,088 - entrez_utils - INFO - Parsing WP_009380128.1 handle.
+2024-01-05 12:12:41,589 - entrez_utils - INFO - Fetching WP_005029592.1 data from GenBank.
+2024-01-05 12:12:43,945 - entrez_utils - INFO - Parsing WP_005029592.1 handle.
+2024-01-05 12:12:44,340 - entrez_utils - INFO - Fetching WP_005030339.1 data from GenBank.
+2024-01-05 12:12:46,641 - entrez_utils - INFO - Parsing WP_005030339.1 handle.
+2024-01-05 12:12:46,791 - entrez_utils - INFO - Fetching WP_005030651.1 data from GenBank.
+2024-01-05 12:12:48,916 - entrez_utils - INFO - Parsing WP_005030651.1 handle.
+2024-01-05 12:12:49,336 - entrez_utils - INFO - Fetching WP_006288815.1 data from GenBank.
+2024-01-05 12:12:50,613 - rodeo_main - INFO - Writing output for query #61.	WP_006037328.1
+2024-01-05 12:12:50,714 - record_processing - INFO - Worker process 6 is processing WP_009001213.1
+2024-01-05 12:12:52,164 - rodeo_main - INFO - Writing output for query #62.	WP_004165660.1
+2024-01-05 12:12:52,245 - entrez_utils - INFO - Parsing WP_006288815.1 handle.
+2024-01-05 12:12:52,412 - record_processing - INFO - Worker process 7 is processing WP_009380128.1
+2024-01-05 12:12:58,714 - entrez_utils - INFO - Fetching WP_006599623.1 data from GenBank.
+2024-01-05 12:13:01,295 - entrez_utils - INFO - Parsing WP_006599623.1 handle.
+2024-01-05 12:13:02,922 - rodeo_main - INFO - Writing output for query #63.	WP_005994353.1
+2024-01-05 12:13:02,934 - record_processing - INFO - Worker process 3 is processing WP_005029592.1
+2024-01-05 12:13:03,867 - rodeo_main - INFO - Writing output for query #64.	WP_013382661.1
+2024-01-05 12:13:03,868 - record_processing - INFO - Worker process 1 is processing WP_005030339.1
+2024-01-05 12:13:04,229 - rodeo_main - INFO - Writing output for query #65.	WP_005956910.1
+2024-01-05 12:13:04,230 - record_processing - INFO - Worker process 2 is processing WP_005030651.1
+2024-01-05 12:13:08,399 - entrez_utils - INFO - Fetching XP_003196586.1 data from GenBank.
+2024-01-05 12:13:11,125 - entrez_utils - INFO - Parsing XP_003196586.1 handle.
+2024-01-05 12:13:12,558 - entrez_utils - INFO - Fetching WP_007980909.1 data from GenBank.
+2024-01-05 12:13:13,267 - record_processing - INFO - Worker process 5 is processing WP_006288815.1
+2024-01-05 12:13:13,271 - rodeo_main - INFO - Writing output for query #66.	WP_002675364.1
+2024-01-05 12:13:14,908 - entrez_utils - INFO - Parsing WP_007980909.1 handle.
+2024-01-05 12:13:16,573 - entrez_utils - INFO - Fetching WP_007981327.1 data from GenBank.
+2024-01-05 12:13:18,880 - entrez_utils - INFO - Parsing WP_007981327.1 handle.
+2024-01-05 12:13:19,971 - entrez_utils - INFO - Fetching WP_001036514.1 data from GenBank.
+2024-01-05 12:13:23,174 - entrez_utils - INFO - Parsing WP_001036514.1 handle.
+2024-01-05 12:13:24,532 - entrez_utils - INFO - Fetching WP_001094892.1 data from GenBank.
+2024-01-05 12:13:28,542 - entrez_utils - INFO - Parsing WP_001094892.1 handle.
+2024-01-05 12:13:31,262 - entrez_utils - INFO - Fetching WP_000669905.1 data from GenBank.
+2024-01-05 12:13:34,361 - rodeo_main - INFO - Writing output for query #67.	WP_006053533.1
+2024-01-05 12:13:34,575 - record_processing - INFO - Worker process 4 is processing WP_006599623.1
+2024-01-05 12:13:34,996 - entrez_utils - INFO - Parsing WP_000669905.1 handle.
+2024-01-05 12:13:35,364 - entrez_utils - INFO - Fetching WP_004815437.1 data from GenBank.
+2024-01-05 12:13:37,952 - entrez_utils - INFO - Parsing WP_004815437.1 handle.
+2024-01-05 12:13:39,122 - entrez_utils - INFO - Fetching WP_014321993.1 data from GenBank.
+2024-01-05 12:13:42,422 - entrez_utils - INFO - Parsing WP_014321993.1 handle.
+2024-01-05 12:13:44,473 - rodeo_main - INFO - Writing output for query #68.	WP_005030339.1
+2024-01-05 12:13:44,477 - record_processing - INFO - Worker process 1 is processing XP_003196586.1
+2024-01-05 12:13:44,867 - rodeo_main - INFO - Writing output for query #69.	WP_005029592.1
+2024-01-05 12:13:44,870 - record_processing - INFO - Worker process 3 is processing WP_007980909.1
+2024-01-05 12:13:49,709 - record_processing - INFO - Worker process 6 is processing WP_007981327.1
+2024-01-05 12:13:49,725 - rodeo_main - INFO - Writing output for query #70.	WP_009001213.1
+2024-01-05 12:13:52,113 - rodeo_main - INFO - Writing output for query #71.	WP_009380128.1
+2024-01-05 12:13:52,117 - record_processing - INFO - Worker process 7 is processing WP_001036514.1
+2024-01-05 12:13:54,407 - entrez_utils - INFO - Fetching WP_000669883.1 data from GenBank.
+2024-01-05 12:13:56,674 - entrez_utils - INFO - Parsing WP_000669883.1 handle.
+2024-01-05 12:13:57,337 - entrez_utils - INFO - Fetching XP_009042584.1 data from GenBank.
+2024-01-05 12:13:59,574 - entrez_utils - INFO - Parsing XP_009042584.1 handle.
+2024-01-05 12:13:59,610 - entrez_utils - INFO - Fetching XP_009032455.1 data from GenBank.
+2024-01-05 12:14:02,019 - entrez_utils - INFO - Parsing XP_009032455.1 handle.
+2024-01-05 12:14:05,184 - entrez_utils - INFO - Fetching XP_009033313.1 data from GenBank.
+2024-01-05 12:14:05,247 - rodeo_main - INFO - Writing output for query #72.	WP_005030651.1
+2024-01-05 12:14:05,266 - record_processing - INFO - Worker process 2 is processing WP_001094892.1
+2024-01-05 12:14:07,571 - entrez_utils - INFO - Parsing XP_009033313.1 handle.
+2024-01-05 12:14:10,301 - entrez_utils - INFO - Fetching XP_009033897.1 data from GenBank.
+2024-01-05 12:14:12,476 - entrez_utils - INFO - Parsing XP_009033897.1 handle.
+2024-01-05 12:14:15,194 - entrez_utils - INFO - Fetching XP_009034524.1 data from GenBank.
+2024-01-05 12:14:17,778 - entrez_utils - INFO - Parsing XP_009034524.1 handle.
+2024-01-05 12:14:19,171 - rodeo_main - INFO - Writing output for query #73.	WP_006288815.1
+2024-01-05 12:14:19,174 - record_processing - INFO - Worker process 5 is processing WP_000669905.1
+2024-01-05 12:14:20,667 - entrez_utils - INFO - Fetching XP_009034464.1 data from GenBank.
+2024-01-05 12:14:22,832 - entrez_utils - INFO - Parsing XP_009034464.1 handle.
+2024-01-05 12:14:25,275 - entrez_utils - INFO - Fetching XP_009034682.1 data from GenBank.
+2024-01-05 12:14:27,605 - entrez_utils - INFO - Parsing XP_009034682.1 handle.
+2024-01-05 12:14:30,226 - entrez_utils - INFO - Fetching XP_009035927.1 data from GenBank.
+2024-01-05 12:14:33,483 - entrez_utils - INFO - Parsing XP_009035927.1 handle.
+2024-01-05 12:14:34,248 - rodeo_main - INFO - Writing output for query #74.	WP_006599623.1
+2024-01-05 12:14:34,251 - record_processing - INFO - Worker process 4 is processing WP_004815437.1
+2024-01-05 12:14:35,906 - entrez_utils - INFO - Fetching XP_009037154.1 data from GenBank.
+2024-01-05 12:14:38,210 - entrez_utils - INFO - Parsing XP_009037154.1 handle.
+2024-01-05 12:14:39,541 - entrez_utils - INFO - Fetching XP_009037328.1 data from GenBank.
+2024-01-05 12:14:40,912 - rodeo_main - INFO - Writing output for query #75.	WP_007980909.1
+2024-01-05 12:14:41,017 - record_processing - INFO - Worker process 3 is processing WP_014321993.1
+2024-01-05 12:14:41,912 - entrez_utils - INFO - Parsing XP_009037328.1 handle.
+2024-01-05 12:14:43,686 - entrez_utils - INFO - Fetching XP_009039751.1 data from GenBank.
+2024-01-05 12:14:45,491 - rodeo_main - INFO - Writing output for query #76.	XP_003196586.1
+2024-01-05 12:14:45,502 - record_processing - INFO - Worker process 1 is processing WP_000669883.1
+2024-01-05 12:14:45,908 - entrez_utils - INFO - Parsing XP_009039751.1 handle.
+2024-01-05 12:14:46,566 - entrez_utils - INFO - Fetching XP_009039780.1 data from GenBank.
+2024-01-05 12:14:47,753 - rodeo_main - INFO - Writing output for query #77.	WP_007981327.1
+2024-01-05 12:14:47,755 - record_processing - INFO - Worker process 6 is processing XP_009042584.1
+2024-01-05 12:14:49,126 - entrez_utils - INFO - Parsing XP_009039780.1 handle.
+2024-01-05 12:14:49,773 - entrez_utils - INFO - Fetching XP_009041085.1 data from GenBank.
+2024-01-05 12:14:52,036 - entrez_utils - INFO - Parsing XP_009041085.1 handle.
+2024-01-05 12:14:52,526 - entrez_utils - INFO - Fetching XP_009041302.1 data from GenBank.
+2024-01-05 12:14:53,133 - rodeo_main - INFO - Writing output for query #78.	WP_001036514.1
+2024-01-05 12:14:53,152 - record_processing - INFO - Worker process 7 is processing XP_009032455.1
+2024-01-05 12:14:54,818 - entrez_utils - INFO - Parsing XP_009041302.1 handle.
+2024-01-05 12:14:55,175 - entrez_utils - INFO - Fetching XP_009042326.1 data from GenBank.
+2024-01-05 12:14:57,315 - entrez_utils - INFO - Parsing XP_009042326.1 handle.
+2024-01-05 12:14:57,344 - entrez_utils - INFO - Fetching WP_014823187.1 data from GenBank.
+2024-01-05 12:15:00,925 - entrez_utils - INFO - Parsing WP_014823187.1 handle.
+2024-01-05 12:15:01,850 - rodeo_main - INFO - Writing output for query #79.	WP_001094892.1
+2024-01-05 12:15:01,859 - record_processing - INFO - Worker process 2 is processing XP_009033313.1
+2024-01-05 12:15:01,880 - rodeo_main - INFO - Writing output for query #80.	XP_009042584.1
+2024-01-05 12:15:01,922 - record_processing - INFO - Worker process 6 is processing XP_009033897.1
+2024-01-05 12:15:08,630 - rodeo_main - INFO - Writing output for query #81.	WP_000669905.1
+2024-01-05 12:15:08,818 - record_processing - INFO - Worker process 5 is processing XP_009034524.1
+2024-01-05 12:15:14,727 - entrez_utils - INFO - Fetching WP_013669561.1 data from GenBank.
+2024-01-05 12:15:16,979 - entrez_utils - INFO - Parsing WP_013669561.1 handle.
+2024-01-05 12:15:18,370 - entrez_utils - INFO - Fetching WP_013668803.1 data from GenBank.
+2024-01-05 12:15:20,605 - entrez_utils - INFO - Parsing WP_013668803.1 handle.
+2024-01-05 12:15:20,918 - entrez_utils - INFO - Fetching WP_009593747.1 data from GenBank.
+2024-01-05 12:15:23,195 - entrez_utils - INFO - Parsing WP_009593747.1 handle.
+2024-01-05 12:15:23,457 - entrez_utils - INFO - Fetching WP_000459860.1 data from GenBank.
+2024-01-05 12:15:30,326 - entrez_utils - INFO - Parsing WP_000459860.1 handle.
+2024-01-05 12:15:33,264 - rodeo_main - INFO - Writing output for query #82.	WP_004815437.1
+2024-01-05 12:15:33,272 - record_processing - INFO - Worker process 4 is processing XP_009034464.1
+2024-01-05 12:15:35,567 - rodeo_main - INFO - Writing output for query #83.	WP_014321993.1
+2024-01-05 12:15:35,585 - record_processing - INFO - Worker process 3 is processing XP_009034682.1
+2024-01-05 12:15:37,111 - rodeo_main - INFO - Writing output for query #84.	WP_000669883.1
+2024-01-05 12:15:37,138 - record_processing - INFO - Worker process 1 is processing XP_009035927.1
+2024-01-05 12:15:48,919 - entrez_utils - INFO - Fetching WP_009676379.1 data from GenBank.
+2024-01-05 12:15:52,008 - entrez_utils - INFO - Parsing WP_009676379.1 handle.
+2024-01-05 12:15:59,390 - record_processing - INFO - Worker process 7 is processing XP_009037154.1
+2024-01-05 12:15:59,397 - rodeo_main - INFO - Writing output for query #85.	XP_009032455.1
+2024-01-05 12:16:00,652 - entrez_utils - INFO - Fetching WP_006808787.1 data from GenBank.
+2024-01-05 12:16:02,321 - record_processing - INFO - Worker process 2 is processing XP_009037328.1
+2024-01-05 12:16:02,336 - rodeo_main - INFO - Writing output for query #86.	XP_009033313.1
+2024-01-05 12:16:04,330 - entrez_utils - INFO - Parsing WP_006808787.1 handle.
+2024-01-05 12:16:04,976 - rodeo_main - INFO - Writing output for query #87.	XP_009034524.1
+2024-01-05 12:16:04,979 - record_processing - INFO - Worker process 5 is processing XP_009039751.1
+2024-01-05 12:16:07,747 - rodeo_main - INFO - Writing output for query #88.	XP_009033897.1
+2024-01-05 12:16:07,749 - record_processing - INFO - Worker process 6 is processing XP_009039780.1
+2024-01-05 12:16:18,601 - entrez_utils - INFO - Fetching WP_015708040.1 data from GenBank.
+2024-01-05 12:16:21,791 - entrez_utils - INFO - Parsing WP_015708040.1 handle.
+2024-01-05 12:16:31,393 - rodeo_main - INFO - Writing output for query #89.	XP_009034464.1
+2024-01-05 12:16:31,396 - record_processing - INFO - Worker process 4 is processing XP_009041085.1
+2024-01-05 12:16:34,196 - entrez_utils - INFO - Fetching WP_015708041.1 data from GenBank.
+2024-01-05 12:16:37,199 - entrez_utils - INFO - Parsing WP_015708041.1 handle.
+2024-01-05 12:16:39,027 - record_processing - INFO - Worker process 3 is processing XP_009041302.1
+2024-01-05 12:16:39,033 - rodeo_main - INFO - Writing output for query #90.	XP_009034682.1
+2024-01-05 12:16:46,569 - record_processing - INFO - Worker process 1 is processing XP_009042326.1
+2024-01-05 12:16:46,586 - rodeo_main - INFO - Writing output for query #91.	XP_009035927.1
+2024-01-05 12:16:47,693 - entrez_utils - INFO - Fetching WP_013800306.1 data from GenBank.
+2024-01-05 12:16:51,923 - entrez_utils - INFO - Parsing WP_013800306.1 handle.
+2024-01-05 12:16:55,585 - rodeo_main - INFO - Writing output for query #92.	XP_009037154.1
+2024-01-05 12:16:55,588 - record_processing - INFO - Worker process 1 is processing WP_013669561.1
+2024-01-05 12:16:55,592 - rodeo_main - INFO - Writing output for query #93.	XP_009042326.1
+2024-01-05 12:16:55,625 - record_processing - INFO - Worker process 7 is processing WP_014823187.1
+2024-01-05 12:17:05,147 - rodeo_main - INFO - Writing output for query #94.	XP_009037328.1
+2024-01-05 12:17:05,157 - record_processing - INFO - Worker process 2 is processing WP_013668803.1
+2024-01-05 12:17:05,925 - rodeo_main - INFO - Writing output for query #95.	XP_009039751.1
+2024-01-05 12:17:05,927 - record_processing - INFO - Worker process 5 is processing WP_009593747.1
+2024-01-05 12:17:09,883 - rodeo_main - INFO - Writing output for query #96.	XP_009039780.1
+2024-01-05 12:17:10,050 - record_processing - INFO - Worker process 6 is processing WP_000459860.1
+2024-01-05 12:17:16,519 - entrez_utils - INFO - Fetching WP_013841694.1 data from GenBank.
+2024-01-05 12:17:19,828 - entrez_utils - INFO - Parsing WP_013841694.1 handle.
+2024-01-05 12:17:30,698 - rodeo_main - INFO - Writing output for query #97.	XP_009041085.1
+2024-01-05 12:17:30,718 - record_processing - INFO - Worker process 4 is processing WP_009676379.1
+2024-01-05 12:17:35,301 - entrez_utils - INFO - Fetching WP_009248792.1 data from GenBank.
+2024-01-05 12:17:38,551 - entrez_utils - INFO - Parsing WP_009248792.1 handle.
+2024-01-05 12:17:42,655 - rodeo_main - INFO - Writing output for query #98.	XP_009041302.1
+2024-01-05 12:17:42,854 - record_processing - INFO - Worker process 3 is processing WP_006808787.1
+2024-01-05 12:17:50,896 - entrez_utils - INFO - Fetching WP_013875904.1 data from GenBank.
+2024-01-05 12:17:53,250 - entrez_utils - INFO - Parsing WP_013875904.1 handle.
+2024-01-05 12:17:54,327 - entrez_utils - INFO - Fetching WP_013875918.1 data from GenBank.
+2024-01-05 12:17:54,730 - rodeo_main - INFO - Writing output for query #99.	WP_014823187.1
+2024-01-05 12:17:54,847 - record_processing - INFO - Worker process 7 is processing WP_015708040.1
+2024-01-05 12:17:55,481 - rodeo_main - INFO - Writing output for query #100.	WP_013669561.1
+2024-01-05 12:17:56,070 - record_processing - INFO - Worker process 1 is processing WP_015708041.1
+2024-01-05 12:17:56,664 - entrez_utils - INFO - Parsing WP_013875918.1 handle.
+2024-01-05 12:17:57,639 - entrez_utils - INFO - Fetching YP_004889243.1 data from GenBank.
+2024-01-05 12:17:58,563 - entrez_utils - INFO - Fetching WP_008684274.1 data from GenBank.
+2024-01-05 12:18:01,642 - entrez_utils - INFO - Parsing WP_008684274.1 handle.
+2024-01-05 12:18:02,847 - rodeo_main - INFO - Writing output for query #101.	WP_013668803.1
+2024-01-05 12:18:02,899 - record_processing - INFO - Worker process 2 is processing WP_013800306.1
+2024-01-05 12:18:03,294 - rodeo_main - INFO - Writing output for query #102.	WP_009593747.1
+2024-01-05 12:18:03,331 - record_processing - INFO - Worker process 5 is processing WP_013841694.1
+2024-01-05 12:18:09,291 - entrez_utils - INFO - Fetching WP_009301684.1 data from GenBank.
+2024-01-05 12:18:10,713 - rodeo_main - INFO - Writing output for query #103.	WP_000459860.1
+2024-01-05 12:18:10,807 - record_processing - INFO - Worker process 6 is processing WP_009248792.1
+2024-01-05 12:18:11,748 - entrez_utils - INFO - Parsing WP_009301684.1 handle.
+2024-01-05 12:18:14,125 - entrez_utils - INFO - Fetching WP_009380055.1 data from GenBank.
+2024-01-05 12:18:16,942 - entrez_utils - INFO - Parsing WP_009380055.1 handle.
+2024-01-05 12:18:21,362 - entrez_utils - INFO - Fetching WP_009380128.1 data from GenBank.
+2024-01-05 12:18:24,424 - entrez_utils - INFO - Parsing WP_009380128.1 handle.
+2024-01-05 12:18:28,286 - rodeo_main - INFO - Writing output for query #104.	WP_009676379.1
+2024-01-05 12:18:28,289 - record_processing - INFO - Worker process 4 is processing WP_013875904.1
+2024-01-05 12:18:31,586 - entrez_utils - INFO - Fetching WP_009381165.1 data from GenBank.
+2024-01-05 12:18:34,141 - entrez_utils - INFO - Parsing WP_009381165.1 handle.
+2024-01-05 12:18:35,194 - entrez_utils - INFO - Fetching WP_004380366.1 data from GenBank.
+2024-01-05 12:18:37,868 - entrez_utils - INFO - Parsing WP_004380366.1 handle.
+2024-01-05 12:18:37,958 - record_processing - INFO - Worker process 3 is processing WP_013875918.1
+2024-01-05 12:18:37,978 - rodeo_main - INFO - Writing output for query #105.	WP_006808787.1
+2024-01-05 12:18:42,548 - entrez_utils - INFO - Fetching WP_009612861.1 data from GenBank.
+2024-01-05 12:18:44,795 - entrez_utils - INFO - Parsing WP_009612861.1 handle.
+2024-01-05 12:18:44,929 - entrez_utils - INFO - Fetching WP_009619184.1 data from GenBank.
+2024-01-05 12:18:47,079 - entrez_utils - INFO - Parsing WP_009619184.1 handle.
+2024-01-05 12:18:47,116 - entrez_utils - INFO - Fetching WP_014032021.1 data from GenBank.
+2024-01-05 12:18:50,264 - entrez_utils - INFO - Parsing WP_014032021.1 handle.
+2024-01-05 12:18:53,885 - rodeo_main - INFO - Writing output for query #106.	WP_015708041.1
+2024-01-05 12:18:53,892 - rodeo_main - INFO - Writing output for query #107.	YP_004889243.1
+2024-01-05 12:18:53,892 - rodeo_main - ERROR - For YP_004889243.1:	No results in nuccore db for value obtained from protein db
+2024-01-05 12:18:53,899 - record_processing - INFO - Worker process 1 is processing WP_008684274.1
+2024-01-05 12:18:54,526 - record_processing - INFO - Worker process 7 is processing WP_009301684.1
+2024-01-05 12:18:54,541 - rodeo_main - INFO - Writing output for query #108.	WP_015708040.1
+2024-01-05 12:18:58,969 - rodeo_main - INFO - Writing output for query #109.	WP_013841694.1
+2024-01-05 12:18:59,027 - record_processing - INFO - Worker process 5 is processing WP_009380055.1
+2024-01-05 12:19:01,138 - entrez_utils - INFO - Fetching WP_004822332.1 data from GenBank.
+2024-01-05 12:19:02,815 - rodeo_main - INFO - Writing output for query #110.	WP_013800306.1
+2024-01-05 12:19:02,897 - record_processing - INFO - Worker process 2 is processing WP_009380128.1
+2024-01-05 12:19:03,756 - entrez_utils - INFO - Parsing WP_004822332.1 handle.
+2024-01-05 12:19:11,892 - entrez_utils - INFO - Fetching WP_007128287.1 data from GenBank.
+2024-01-05 12:19:12,226 - record_processing - INFO - Worker process 6 is processing WP_009381165.1
+2024-01-05 12:19:12,231 - rodeo_main - INFO - Writing output for query #111.	WP_009248792.1
+2024-01-05 12:19:14,149 - entrez_utils - INFO - Parsing WP_007128287.1 handle.
+2024-01-05 12:19:15,036 - entrez_utils - INFO - Fetching WP_009113539.1 data from GenBank.
+2024-01-05 12:19:18,035 - entrez_utils - INFO - Parsing WP_009113539.1 handle.
+2024-01-05 12:19:25,677 - rodeo_main - INFO - Writing output for query #112.	WP_013875904.1
+2024-01-05 12:19:25,697 - record_processing - INFO - Worker process 4 is processing WP_004380366.1
+2024-01-05 12:19:31,548 - entrez_utils - INFO - Fetching WP_009111040.1 data from GenBank.
+2024-01-05 12:19:35,422 - entrez_utils - INFO - Parsing WP_009111040.1 handle.
+2024-01-05 12:19:37,380 - rodeo_main - INFO - Writing output for query #113.	WP_013875918.1
+2024-01-05 12:19:37,382 - record_processing - INFO - Worker process 3 is processing WP_009612861.1
+2024-01-05 12:19:48,216 - entrez_utils - INFO - Fetching WP_009167869.1 data from GenBank.
+2024-01-05 12:19:51,434 - entrez_utils - INFO - Parsing WP_009167869.1 handle.
+2024-01-05 12:19:51,537 - rodeo_main - INFO - Writing output for query #114.	WP_008684274.1
+2024-01-05 12:19:51,539 - record_processing - INFO - Worker process 1 is processing WP_009619184.1
+2024-01-05 12:19:55,330 - rodeo_main - INFO - Writing output for query #115.	WP_009301684.1
+2024-01-05 12:19:55,379 - record_processing - INFO - Worker process 7 is processing WP_014032021.1
+2024-01-05 12:19:57,490 - rodeo_main - INFO - Writing output for query #116.	WP_009380055.1
+2024-01-05 12:19:57,670 - record_processing - INFO - Worker process 5 is processing WP_004822332.1
+2024-01-05 12:20:01,449 - rodeo_main - INFO - Writing output for query #117.	WP_009380128.1
+2024-01-05 12:20:01,453 - record_processing - INFO - Worker process 2 is processing WP_007128287.1
+2024-01-05 12:20:07,462 - entrez_utils - INFO - Fetching WP_014184280.1 data from GenBank.
+2024-01-05 12:20:08,876 - rodeo_main - INFO - Writing output for query #118.	WP_009381165.1
+2024-01-05 12:20:08,980 - record_processing - INFO - Worker process 6 is processing WP_009113539.1
+2024-01-05 12:20:11,343 - entrez_utils - INFO - Parsing WP_014184280.1 handle.
+2024-01-05 12:20:27,585 - rodeo_main - INFO - Writing output for query #119.	WP_004380366.1
+2024-01-05 12:20:27,622 - record_processing - INFO - Worker process 4 is processing WP_009111040.1
+2024-01-05 12:20:27,630 - entrez_utils - INFO - Fetching WP_014186181.1 data from GenBank.
+2024-01-05 12:20:30,511 - rodeo_main - INFO - Writing output for query #120.	WP_009612861.1
+2024-01-05 12:20:30,534 - record_processing - INFO - Worker process 3 is processing WP_009167869.1
+2024-01-05 12:20:31,790 - entrez_utils - INFO - Parsing WP_014186181.1 handle.
+2024-01-05 12:20:35,870 - rodeo_main - INFO - Writing output for query #121.	WP_009619184.1
+2024-01-05 12:20:35,980 - record_processing - INFO - Worker process 1 is processing WP_014184280.1
+2024-01-05 12:20:46,533 - entrez_utils - INFO - Fetching WP_014186182.1 data from GenBank.
+2024-01-05 12:20:49,640 - entrez_utils - INFO - Parsing WP_014186182.1 handle.
+2024-01-05 12:20:57,579 - rodeo_main - INFO - Writing output for query #122.	WP_014032021.1
+2024-01-05 12:20:57,631 - record_processing - INFO - Worker process 7 is processing WP_014186181.1
+2024-01-05 12:20:59,303 - rodeo_main - INFO - Writing output for query #123.	WP_007128287.1
+2024-01-05 12:21:00,162 - rodeo_main - INFO - Writing output for query #124.	WP_004822332.1
+2024-01-05 12:21:01,439 - entrez_utils - INFO - Fetching WP_014183730.1 data from GenBank.
+2024-01-05 12:21:01,492 - record_processing - INFO - Worker process 2 is processing WP_014186182.1
+2024-01-05 12:21:03,988 - rodeo_main - INFO - Writing output for query #125.	WP_009113539.1
+2024-01-05 12:21:05,889 - entrez_utils - INFO - Parsing WP_014183730.1 handle.
+2024-01-05 12:21:19,323 - entrez_utils - INFO - Fetching WP_014187168.1 data from GenBank.
+2024-01-05 12:21:19,365 - record_processing - INFO - Worker process 5 is processing WP_014183730.1
+2024-01-05 12:21:19,466 - rodeo_main - INFO - Writing output for query #126.	WP_009111040.1
+2024-01-05 12:21:19,824 - rodeo_main - INFO - Writing output for query #127.	WP_009167869.1
+2024-01-05 12:21:23,078 - entrez_utils - INFO - Parsing WP_014187168.1 handle.
+2024-01-05 12:21:26,929 - rodeo_main - INFO - Writing output for query #128.	WP_014184280.1
+2024-01-05 12:21:34,454 - entrez_utils - INFO - Fetching WP_014267596.1 data from GenBank.
+2024-01-05 12:21:34,579 - record_processing - INFO - Worker process 6 is processing WP_014187168.1
+2024-01-05 12:21:36,491 - rodeo_main - INFO - Writing output for query #129.	WP_014186182.1
+2024-01-05 12:21:37,936 - rodeo_main - INFO - Writing output for query #130.	WP_014186181.1
+2024-01-05 12:21:38,104 - entrez_utils - INFO - Parsing WP_014267596.1 handle.
+2024-01-05 12:21:45,482 - rodeo_main - INFO - Writing output for query #131.	WP_014183730.1
+2024-01-05 12:21:52,428 - rodeo_main - INFO - Writing output for query #132.	WP_014187168.1
+2024-01-05 12:21:52,737 - entrez_utils - INFO - Fetching WP_005808599.1 data from GenBank.
+2024-01-05 12:21:52,779 - record_processing - INFO - Worker process 4 is processing WP_014267596.1
+2024-01-05 12:21:56,797 - entrez_utils - INFO - Parsing WP_005808599.1 handle.
+2024-01-05 12:22:09,073 - rodeo_main - INFO - Writing output for query #133.	WP_014267596.1
+2024-01-05 12:22:11,445 - entrez_utils - INFO - Fetching WP_005810317.1 data from GenBank.
+2024-01-05 12:22:11,498 - record_processing - INFO - Worker process 3 is processing WP_005808599.1
+2024-01-05 12:22:15,439 - entrez_utils - INFO - Parsing WP_005810317.1 handle.
+2024-01-05 12:22:26,913 - entrez_utils - INFO - Fetching WP_005813245.1 data from GenBank.
+2024-01-05 12:22:26,952 - record_processing - INFO - Worker process 1 is processing WP_005810317.1
+2024-01-05 12:22:27,407 - rodeo_main - INFO - Writing output for query #134.	WP_005808599.1
+2024-01-05 12:22:30,878 - entrez_utils - INFO - Parsing WP_005813245.1 handle.
+2024-01-05 12:22:41,986 - entrez_utils - INFO - Fetching WP_007495600.1 data from GenBank.
+2024-01-05 12:22:42,028 - record_processing - INFO - Worker process 2 is processing WP_005813245.1
+2024-01-05 12:22:42,817 - rodeo_main - INFO - Writing output for query #135.	WP_005810317.1
+2024-01-05 12:22:44,676 - entrez_utils - INFO - Parsing WP_007495600.1 handle.
+2024-01-05 12:22:55,854 - entrez_utils - INFO - Fetching WP_002436741.1 data from GenBank.
+2024-01-05 12:22:55,882 - record_processing - INFO - Worker process 7 is processing WP_007495600.1
+2024-01-05 12:22:58,705 - rodeo_main - INFO - Writing output for query #136.	WP_005813245.1
+2024-01-05 12:22:59,347 - entrez_utils - INFO - Parsing WP_002436741.1 handle.
+2024-01-05 12:23:11,171 - entrez_utils - INFO - Fetching WP_007783527.1 data from GenBank.
+2024-01-05 12:23:11,199 - record_processing - INFO - Worker process 5 is processing WP_002436741.1
+2024-01-05 12:23:11,785 - rodeo_main - INFO - Writing output for query #137.	WP_007495600.1
+2024-01-05 12:23:14,946 - entrez_utils - INFO - Parsing WP_007783527.1 handle.
+2024-01-05 12:23:27,525 - rodeo_main - INFO - Writing output for query #138.	WP_002436741.1
+2024-01-05 12:23:29,644 - entrez_utils - INFO - Fetching WP_004058193.1 data from GenBank.
+2024-01-05 12:23:29,670 - record_processing - INFO - Worker process 6 is processing WP_007783527.1
+2024-01-05 12:23:32,879 - entrez_utils - INFO - Parsing WP_004058193.1 handle.
+2024-01-05 12:23:44,275 - entrez_utils - INFO - Fetching WP_014792129.1 data from GenBank.
+2024-01-05 12:23:44,291 - record_processing - INFO - Worker process 4 is processing WP_004058193.1
+2024-01-05 12:23:45,654 - rodeo_main - INFO - Writing output for query #139.	WP_007783527.1
+2024-01-05 12:23:47,739 - entrez_utils - INFO - Parsing WP_014792129.1 handle.
+2024-01-05 12:23:59,021 - entrez_utils - INFO - Fetching WP_014828274.1 data from GenBank.
+2024-01-05 12:23:59,056 - record_processing - INFO - Worker process 3 is processing WP_014792129.1
+2024-01-05 12:23:59,814 - rodeo_main - INFO - Writing output for query #140.	WP_004058193.1
+2024-01-05 12:24:02,114 - entrez_utils - INFO - Parsing WP_014828274.1 handle.
+2024-01-05 12:24:13,842 - entrez_utils - INFO - Fetching WP_014828275.1 data from GenBank.
+2024-01-05 12:24:13,875 - record_processing - INFO - Worker process 1 is processing WP_014828274.1
+2024-01-05 12:24:14,891 - rodeo_main - INFO - Writing output for query #141.	WP_014792129.1
+2024-01-05 12:24:17,258 - entrez_utils - INFO - Parsing WP_014828275.1 handle.
+2024-01-05 12:24:27,110 - entrez_utils - INFO - Fetching WP_008364650.1 data from GenBank.
+2024-01-05 12:24:27,149 - record_processing - INFO - Worker process 2 is processing WP_014828275.1
+2024-01-05 12:24:29,254 - entrez_utils - INFO - Parsing WP_008364650.1 handle.
+2024-01-05 12:24:30,106 - rodeo_main - INFO - Writing output for query #142.	WP_014828274.1
+2024-01-05 12:24:30,575 - record_processing - INFO - Worker process 7 is processing WP_008364650.1
+2024-01-05 12:24:30,578 - entrez_utils - INFO - Fetching WP_014863309.1 data from GenBank.
+2024-01-05 12:24:32,846 - entrez_utils - INFO - Parsing WP_014863309.1 handle.
+2024-01-05 12:24:33,447 - record_processing - INFO - Worker process 5 is processing WP_014863309.1
+2024-01-05 12:24:33,451 - entrez_utils - INFO - Fetching WP_009559048.1 data from GenBank.
+2024-01-05 12:24:35,636 - entrez_utils - INFO - Parsing WP_009559048.1 handle.
+2024-01-05 12:24:36,650 - record_processing - INFO - Worker process 6 is processing WP_009559048.1
+2024-01-05 12:24:36,655 - entrez_utils - INFO - Fetching WP_008472997.1 data from GenBank.
+2024-01-05 12:24:38,881 - entrez_utils - INFO - Parsing WP_008472997.1 handle.
+2024-01-05 12:24:38,945 - record_processing - INFO - Worker process 4 is processing WP_008472997.1
+2024-01-05 12:24:38,945 - entrez_utils - INFO - Fetching WP_006291995.1 data from GenBank.
+2024-01-05 12:24:41,089 - entrez_utils - INFO - Parsing WP_006291995.1 handle.
+2024-01-05 12:24:41,257 - record_processing - INFO - Worker process 3 is processing WP_006291995.1
+2024-01-05 12:24:41,261 - entrez_utils - INFO - Fetching WP_008462469.1 data from GenBank.
+2024-01-05 12:24:43,485 - entrez_utils - INFO - Parsing WP_008462469.1 handle.
+2024-01-05 12:24:44,553 - entrez_utils - INFO - Fetching WP_007952781.1 data from GenBank.
+2024-01-05 12:24:44,559 - record_processing - INFO - Worker process 1 is processing WP_008462469.1
+2024-01-05 12:24:46,842 - entrez_utils - INFO - Parsing WP_007952781.1 handle.
+2024-01-05 12:24:47,609 - entrez_utils - INFO - Fetching WP_007919144.1 data from GenBank.
+2024-01-05 12:24:49,942 - entrez_utils - INFO - Parsing WP_007919144.1 handle.
+2024-01-05 12:24:49,969 - entrez_utils - INFO - Fetching WP_008081768.1 data from GenBank.
+2024-01-05 12:24:52,101 - entrez_utils - INFO - Parsing WP_008081768.1 handle.
+2024-01-05 12:24:52,132 - entrez_utils - INFO - Fetching WP_009733073.1 data from GenBank.
+2024-01-05 12:24:54,581 - entrez_utils - INFO - Parsing WP_009733073.1 handle.
+2024-01-05 12:24:56,507 - entrez_utils - INFO - Fetching WP_008077401.1 data from GenBank.
+2024-01-05 12:24:58,797 - entrez_utils - INFO - Parsing WP_008077401.1 handle.
+2024-01-05 12:24:59,072 - entrez_utils - INFO - Fetching WP_009365575.1 data from GenBank.
+2024-01-05 12:25:01,414 - entrez_utils - INFO - Parsing WP_009365575.1 handle.
+2024-01-05 12:25:03,687 - entrez_utils - INFO - Fetching WP_014902777.1 data from GenBank.
+2024-01-05 12:25:06,635 - entrez_utils - INFO - Parsing WP_014902777.1 handle.
+2024-01-05 12:25:08,734 - rodeo_main - INFO - Writing output for query #143.	WP_014828275.1
+2024-01-05 12:25:08,736 - record_processing - INFO - Worker process 2 is processing WP_007952781.1
+2024-01-05 12:25:13,388 - record_processing - INFO - Worker process 4 is processing WP_007919144.1
+2024-01-05 12:25:13,392 - rodeo_main - INFO - Writing output for query #144.	WP_008472997.1
+2024-01-05 12:25:18,135 - rodeo_main - INFO - Writing output for query #145.	WP_008364650.1
+2024-01-05 12:25:18,156 - record_processing - INFO - Worker process 7 is processing WP_008081768.1
+2024-01-05 12:25:19,147 - rodeo_main - INFO - Writing output for query #146.	WP_014863309.1
+2024-01-05 12:25:19,152 - record_processing - INFO - Worker process 5 is processing WP_009733073.1
+2024-01-05 12:25:21,974 - entrez_utils - INFO - Fetching WP_014902783.1 data from GenBank.
+2024-01-05 12:25:24,941 - entrez_utils - INFO - Parsing WP_014902783.1 handle.
+2024-01-05 12:25:26,315 - rodeo_main - INFO - Writing output for query #147.	WP_009559048.1
+2024-01-05 12:25:26,317 - record_processing - INFO - Worker process 6 is processing WP_008077401.1
+2024-01-05 12:25:35,692 - entrez_utils - INFO - Fetching WP_000509953.1 data from GenBank.
+2024-01-05 12:25:39,705 - entrez_utils - INFO - Parsing WP_000509953.1 handle.
+2024-01-05 12:25:43,812 - rodeo_main - INFO - Writing output for query #148.	WP_006291995.1
+2024-01-05 12:25:43,840 - record_processing - INFO - Worker process 3 is processing WP_009365575.1
+2024-01-05 12:25:44,689 - rodeo_main - INFO - Writing output for query #149.	WP_007919144.1
+2024-01-05 12:25:44,920 - record_processing - INFO - Worker process 4 is processing WP_014902777.1
+2024-01-05 12:25:46,696 - rodeo_main - INFO - Writing output for query #150.	WP_008462469.1
+2024-01-05 12:25:46,746 - record_processing - INFO - Worker process 1 is processing WP_014902783.1
+2024-01-05 12:25:57,621 - entrez_utils - INFO - Fetching XP_012052905.1 data from GenBank.
+2024-01-05 12:25:59,985 - entrez_utils - INFO - Parsing XP_012052905.1 handle.
+2024-01-05 12:26:02,963 - entrez_utils - INFO - Fetching WP_014966928.1 data from GenBank.
+2024-01-05 12:26:05,607 - rodeo_main - INFO - Writing output for query #151.	WP_008081768.1
+2024-01-05 12:26:05,672 - record_processing - INFO - Worker process 7 is processing WP_000509953.1
+2024-01-05 12:26:05,854 - entrez_utils - INFO - Parsing WP_014966928.1 handle.
+2024-01-05 12:26:08,272 - rodeo_main - INFO - Writing output for query #152.	WP_007952781.1
+2024-01-05 12:26:08,278 - record_processing - INFO - Worker process 2 is processing XP_012052905.1
+2024-01-05 12:26:15,863 - entrez_utils - INFO - Fetching WP_003884083.1 data from GenBank.
+2024-01-05 12:26:19,142 - rodeo_main - INFO - Writing output for query #153.	WP_008077401.1
+2024-01-05 12:26:19,161 - record_processing - INFO - Worker process 6 is processing WP_014966928.1
+2024-01-05 12:26:20,109 - entrez_utils - INFO - Parsing WP_003884083.1 handle.
+2024-01-05 12:26:23,764 - rodeo_main - INFO - Writing output for query #154.	WP_009733073.1
+2024-01-05 12:26:34,807 - rodeo_main - INFO - Writing output for query #155.	WP_009365575.1
+2024-01-05 12:26:36,052 - entrez_utils - INFO - Fetching WP_005436897.1 data from GenBank.
+2024-01-05 12:26:36,095 - record_processing - INFO - Worker process 5 is processing WP_003884083.1
+2024-01-05 12:26:38,281 - entrez_utils - INFO - Parsing WP_005436897.1 handle.
+2024-01-05 12:26:38,442 - entrez_utils - INFO - Fetching WP_008405058.1 data from GenBank.
+2024-01-05 12:26:38,442 - record_processing - INFO - Worker process 3 is processing WP_005436897.1
+2024-01-05 12:26:40,560 - entrez_utils - INFO - Parsing WP_008405058.1 handle.
+2024-01-05 12:26:40,986 - entrez_utils - INFO - Fetching WP_007332636.1 data from GenBank.
+2024-01-05 12:26:42,930 - rodeo_main - INFO - Writing output for query #156.	WP_014902777.1
+2024-01-05 12:26:42,940 - record_processing - INFO - Worker process 4 is processing WP_008405058.1
+2024-01-05 12:26:43,179 - entrez_utils - INFO - Parsing WP_007332636.1 handle.
+2024-01-05 12:26:43,257 - entrez_utils - INFO - Fetching WP_007657533.1 data from GenBank.
+2024-01-05 12:26:45,239 - rodeo_main - INFO - Writing output for query #157.	WP_014902783.1
+2024-01-05 12:26:45,240 - record_processing - INFO - Worker process 1 is processing WP_007332636.1
+2024-01-05 12:26:45,505 - entrez_utils - INFO - Parsing WP_007657533.1 handle.
+2024-01-05 12:26:46,299 - entrez_utils - INFO - Fetching WP_015328457.1 data from GenBank.
+2024-01-05 12:26:48,468 - entrez_utils - INFO - Parsing WP_015328457.1 handle.
+2024-01-05 12:26:49,395 - entrez_utils - INFO - Fetching WP_015260940.1 data from GenBank.
+2024-01-05 12:26:52,730 - entrez_utils - INFO - Parsing WP_015260940.1 handle.
+2024-01-05 12:27:03,229 - entrez_utils - INFO - Fetching WP_015263010.1 data from GenBank.
+2024-01-05 12:27:03,816 - record_processing - INFO - Worker process 7 is processing WP_007657533.1
+2024-01-05 12:27:03,881 - rodeo_main - INFO - Writing output for query #158.	WP_000509953.1
+2024-01-05 12:27:06,608 - entrez_utils - INFO - Parsing WP_015263010.1 handle.
+2024-01-05 12:27:07,319 - record_processing - INFO - Worker process 2 is processing WP_015328457.1
+2024-01-05 12:27:07,336 - rodeo_main - INFO - Writing output for query #159.	XP_012052905.1
+2024-01-05 12:27:15,274 - rodeo_main - INFO - Writing output for query #160.	WP_014966928.1
+2024-01-05 12:27:15,292 - record_processing - INFO - Worker process 6 is processing WP_015260940.1
+2024-01-05 12:27:16,923 - entrez_utils - INFO - Fetching WP_015262613.1 data from GenBank.
+2024-01-05 12:27:19,775 - entrez_utils - INFO - Parsing WP_015262613.1 handle.
+2024-01-05 12:27:27,196 - entrez_utils - INFO - Fetching WP_015263770.1 data from GenBank.
+2024-01-05 12:27:30,531 - entrez_utils - INFO - Parsing WP_015263770.1 handle.
+2024-01-05 12:27:31,716 - rodeo_main - INFO - Writing output for query #161.	WP_005436897.1
+2024-01-05 12:27:31,742 - record_processing - INFO - Worker process 3 is processing WP_015263010.1
+2024-01-05 12:27:35,576 - rodeo_main - INFO - Writing output for query #162.	WP_003884083.1
+2024-01-05 12:27:35,665 - record_processing - INFO - Worker process 5 is processing WP_015262613.1
+2024-01-05 12:27:37,679 - rodeo_main - INFO - Writing output for query #163.	WP_007332636.1
+2024-01-05 12:27:39,247 - entrez_utils - INFO - Fetching WP_015263769.1 data from GenBank.
+2024-01-05 12:27:39,276 - record_processing - INFO - Worker process 1 is processing WP_015263770.1
+2024-01-05 12:27:41,936 - entrez_utils - INFO - Parsing WP_015263769.1 handle.
+2024-01-05 12:27:43,278 - rodeo_main - INFO - Writing output for query #164.	WP_008405058.1
+2024-01-05 12:27:48,846 - entrez_utils - INFO - Fetching WP_006180537.1 data from GenBank.
+2024-01-05 12:27:48,883 - record_processing - INFO - Worker process 4 is processing WP_015263769.1
+2024-01-05 12:27:51,067 - entrez_utils - INFO - Parsing WP_006180537.1 handle.
+2024-01-05 12:27:51,478 - entrez_utils - INFO - Fetching WP_009399531.1 data from GenBank.
+2024-01-05 12:27:54,159 - entrez_utils - INFO - Parsing WP_009399531.1 handle.
+2024-01-05 12:28:01,551 - rodeo_main - INFO - Writing output for query #165.	WP_007657533.1
+2024-01-05 12:28:01,562 - record_processing - INFO - Worker process 7 is processing WP_006180537.1
+2024-01-05 12:28:02,649 - rodeo_main - INFO - Writing output for query #166.	WP_015328457.1
+2024-01-05 12:28:03,544 - entrez_utils - INFO - Fetching WP_009419162.1 data from GenBank.
+2024-01-05 12:28:03,738 - record_processing - INFO - Worker process 2 is processing WP_009399531.1
+2024-01-05 12:28:05,810 - entrez_utils - INFO - Parsing WP_009419162.1 handle.
+2024-01-05 12:28:06,033 - entrez_utils - INFO - Fetching WP_009411995.1 data from GenBank.
+2024-01-05 12:28:08,183 - entrez_utils - INFO - Parsing WP_009411995.1 handle.
+2024-01-05 12:28:08,331 - entrez_utils - INFO - Fetching WP_009411251.1 data from GenBank.
+2024-01-05 12:28:10,567 - entrez_utils - INFO - Parsing WP_009411251.1 handle.
+2024-01-05 12:28:11,155 - entrez_utils - INFO - Fetching WP_009202809.1 data from GenBank.
+2024-01-05 12:28:14,946 - entrez_utils - INFO - Parsing WP_009202809.1 handle.
+2024-01-05 12:28:16,036 - rodeo_main - INFO - Writing output for query #167.	WP_015260940.1
+2024-01-05 12:28:16,038 - record_processing - INFO - Worker process 6 is processing WP_009419162.1
+2024-01-05 12:28:23,631 - entrez_utils - INFO - Fetching WP_004065348.1 data from GenBank.
+2024-01-05 12:28:26,063 - entrez_utils - INFO - Parsing WP_004065348.1 handle.
+2024-01-05 12:28:27,267 - entrez_utils - INFO - Fetching WP_015362567.1 data from GenBank.
+2024-01-05 12:28:28,250 - rodeo_main - INFO - Writing output for query #168.	WP_015263010.1
+2024-01-05 12:28:28,252 - record_processing - INFO - Worker process 3 is processing WP_009411995.1
+2024-01-05 12:28:29,542 - entrez_utils - INFO - Parsing WP_015362567.1 handle.
+2024-01-05 12:28:30,863 - entrez_utils - INFO - Fetching WP_006432672.1 data from GenBank.
+2024-01-05 12:28:33,128 - entrez_utils - INFO - Parsing WP_006432672.1 handle.
+2024-01-05 12:28:33,545 - entrez_utils - INFO - Fetching WP_006184229.1 data from GenBank.
+2024-01-05 12:28:35,866 - entrez_utils - INFO - Parsing WP_006184229.1 handle.
+2024-01-05 12:28:36,227 - entrez_utils - INFO - Fetching WP_008452378.1 data from GenBank.
+2024-01-05 12:28:37,091 - record_processing - INFO - Worker process 5 is processing WP_009411251.1
+2024-01-05 12:28:37,095 - rodeo_main - INFO - Writing output for query #169.	WP_015262613.1
+2024-01-05 12:28:37,637 - rodeo_main - INFO - Writing output for query #170.	WP_015263770.1
+2024-01-05 12:28:37,676 - record_processing - INFO - Worker process 1 is processing WP_009202809.1
+2024-01-05 12:28:38,523 - entrez_utils - INFO - Parsing WP_008452378.1 handle.
+2024-01-05 12:28:39,032 - entrez_utils - INFO - Fetching WP_007109703.1 data from GenBank.
+2024-01-05 12:28:41,315 - entrez_utils - INFO - Parsing WP_007109703.1 handle.
+2024-01-05 12:28:41,557 - entrez_utils - INFO - Fetching WP_006667577.1 data from GenBank.
+2024-01-05 12:28:43,842 - entrez_utils - INFO - Parsing WP_006667577.1 handle.
+2024-01-05 12:28:43,989 - entrez_utils - INFO - Fetching WP_006107294.1 data from GenBank.
+2024-01-05 12:28:44,370 - rodeo_main - INFO - Writing output for query #171.	WP_015263769.1
+2024-01-05 12:28:44,385 - record_processing - INFO - Worker process 4 is processing WP_004065348.1
+2024-01-05 12:28:46,143 - entrez_utils - INFO - Parsing WP_006107294.1 handle.
+2024-01-05 12:28:46,650 - entrez_utils - INFO - Fetching WP_006107463.1 data from GenBank.
+2024-01-05 12:28:48,887 - entrez_utils - INFO - Parsing WP_006107463.1 handle.
+2024-01-05 12:28:49,271 - entrez_utils - INFO - Fetching WP_008012179.1 data from GenBank.
+2024-01-05 12:28:51,353 - entrez_utils - INFO - Parsing WP_008012179.1 handle.
+2024-01-05 12:28:52,103 - entrez_utils - INFO - Fetching WP_006883348.1 data from GenBank.
+2024-01-05 12:28:56,559 - entrez_utils - INFO - Parsing WP_006883348.1 handle.
+2024-01-05 12:28:57,163 - entrez_utils - INFO - Fetching WP_006883193.1 data from GenBank.
+2024-01-05 12:28:59,461 - entrez_utils - INFO - Parsing WP_006883193.1 handle.
+2024-01-05 12:28:59,770 - record_processing - INFO - Worker process 7 is processing WP_015362567.1
+2024-01-05 12:28:59,778 - rodeo_main - INFO - Writing output for query #172.	WP_006180537.1
+2024-01-05 12:29:00,678 - entrez_utils - INFO - Fetching WP_008386970.1 data from GenBank.
+2024-01-05 12:29:02,913 - entrez_utils - INFO - Parsing WP_008386970.1 handle.
+2024-01-05 12:29:03,112 - entrez_utils - INFO - Fetching WP_008577022.1 data from GenBank.
+2024-01-05 12:29:04,340 - rodeo_main - INFO - Writing output for query #173.	WP_009399531.1
+2024-01-05 12:29:04,343 - record_processing - INFO - Worker process 2 is processing WP_006432672.1
+2024-01-05 12:29:05,564 - entrez_utils - INFO - Parsing WP_008577022.1 handle.
+2024-01-05 12:29:05,936 - entrez_utils - INFO - Fetching WP_008577022.1 data from GenBank.
+2024-01-05 12:29:08,209 - entrez_utils - INFO - Parsing WP_008577022.1 handle.
+2024-01-05 12:29:08,571 - entrez_utils - INFO - Fetching WP_008577022.1 data from GenBank.
+2024-01-05 12:29:10,804 - entrez_utils - INFO - Parsing WP_008577022.1 handle.
+2024-01-05 12:29:11,241 - entrez_utils - INFO - Fetching WP_008094234.1 data from GenBank.
+2024-01-05 12:29:12,222 - record_processing - INFO - Worker process 6 is processing WP_006184229.1
+2024-01-05 12:29:12,228 - rodeo_main - INFO - Writing output for query #174.	WP_009419162.1
+2024-01-05 12:29:13,455 - entrez_utils - INFO - Parsing WP_008094234.1 handle.
+2024-01-05 12:29:13,920 - entrez_utils - INFO - Fetching WP_004065348.1 data from GenBank.
+2024-01-05 12:29:16,512 - entrez_utils - INFO - Parsing WP_004065348.1 handle.
+2024-01-05 12:29:17,805 - entrez_utils - INFO - Fetching WP_004065348.1 data from GenBank.
+2024-01-05 12:29:19,991 - entrez_utils - INFO - Parsing WP_004065348.1 handle.
+2024-01-05 12:29:20,911 - entrez_utils - INFO - Fetching WP_007274989.1 data from GenBank.
+2024-01-05 12:29:23,424 - entrez_utils - INFO - Parsing WP_007274989.1 handle.
+2024-01-05 12:29:25,717 - entrez_utils - INFO - Fetching WP_008319760.1 data from GenBank.
+2024-01-05 12:29:28,082 - entrez_utils - INFO - Parsing WP_008319760.1 handle.
+2024-01-05 12:29:28,837 - rodeo_main - INFO - Writing output for query #175.	WP_009411995.1
+2024-01-05 12:29:28,858 - record_processing - INFO - Worker process 3 is processing WP_008452378.1
+2024-01-05 12:29:29,703 - entrez_utils - INFO - Fetching WP_004969048.1 data from GenBank.
+2024-01-05 12:29:32,120 - entrez_utils - INFO - Parsing WP_004969048.1 handle.
+2024-01-05 12:29:33,304 - record_processing - INFO - Worker process 1 is processing WP_007109703.1
+2024-01-05 12:29:33,391 - rodeo_main - INFO - Writing output for query #176.	WP_009202809.1
+2024-01-05 12:29:33,473 - entrez_utils - INFO - Fetching WP_007692688.1 data from GenBank.
+2024-01-05 12:29:35,678 - entrez_utils - INFO - Parsing WP_007692688.1 handle.
+2024-01-05 12:29:36,182 - entrez_utils - INFO - Fetching WP_007690926.1 data from GenBank.
+2024-01-05 12:29:37,268 - record_processing - INFO - Worker process 5 is processing WP_006667577.1
+2024-01-05 12:29:37,272 - rodeo_main - INFO - Writing output for query #177.	WP_009411251.1
+2024-01-05 12:29:38,329 - entrez_utils - INFO - Parsing WP_007690926.1 handle.
+2024-01-05 12:29:38,567 - entrez_utils - INFO - Fetching WP_004054918.1 data from GenBank.
+2024-01-05 12:29:40,692 - rodeo_main - INFO - Writing output for query #178.	WP_004065348.1
+2024-01-05 12:29:40,694 - record_processing - INFO - Worker process 4 is processing WP_006107294.1
+2024-01-05 12:29:40,788 - entrez_utils - INFO - Parsing WP_004054918.1 handle.
+2024-01-05 12:29:41,107 - entrez_utils - INFO - Fetching WP_006079258.1 data from GenBank.
+2024-01-05 12:29:43,457 - entrez_utils - INFO - Parsing WP_006079258.1 handle.
+2024-01-05 12:29:43,887 - entrez_utils - INFO - Fetching WP_006076247.1 data from GenBank.
+2024-01-05 12:29:46,221 - entrez_utils - INFO - Parsing WP_006076247.1 handle.
+2024-01-05 12:29:46,475 - entrez_utils - INFO - Fetching WP_007742509.1 data from GenBank.
+2024-01-05 12:29:51,012 - entrez_utils - INFO - Parsing WP_007742509.1 handle.
+2024-01-05 12:29:52,025 - entrez_utils - INFO - Fetching WP_004051176.1 data from GenBank.
+2024-01-05 12:29:54,338 - entrez_utils - INFO - Parsing WP_004051176.1 handle.
+2024-01-05 12:29:54,570 - entrez_utils - INFO - Fetching WP_005042600.1 data from GenBank.
+2024-01-05 12:29:56,833 - entrez_utils - INFO - Parsing WP_005042600.1 handle.
+2024-01-05 12:29:57,153 - rodeo_main - INFO - Writing output for query #179.	WP_015362567.1
+2024-01-05 12:29:57,155 - record_processing - INFO - Worker process 7 is processing WP_006107463.1
+2024-01-05 12:29:57,899 - entrez_utils - INFO - Fetching WP_007739401.1 data from GenBank.
+2024-01-05 12:30:00,316 - entrez_utils - INFO - Parsing WP_007739401.1 handle.
+2024-01-05 12:30:00,845 - entrez_utils - INFO - Fetching WP_002953648.1 data from GenBank.
+2024-01-05 12:30:02,272 - rodeo_main - INFO - Writing output for query #180.	WP_006432672.1
+2024-01-05 12:30:02,318 - record_processing - INFO - Worker process 2 is processing WP_008012179.1
+2024-01-05 12:30:03,043 - entrez_utils - INFO - Parsing WP_002953648.1 handle.
+2024-01-05 12:30:03,069 - entrez_utils - INFO - Fetching WP_009495403.1 data from GenBank.
+2024-01-05 12:30:05,318 - entrez_utils - INFO - Parsing WP_009495403.1 handle.
+2024-01-05 12:30:05,693 - entrez_utils - INFO - Fetching WP_001094889.1 data from GenBank.
+2024-01-05 12:30:07,625 - rodeo_main - INFO - Writing output for query #181.	WP_006184229.1
+2024-01-05 12:30:07,669 - record_processing - INFO - Worker process 6 is processing WP_006883348.1
+2024-01-05 12:30:08,454 - entrez_utils - INFO - Parsing WP_001094889.1 handle.
+2024-01-05 12:30:09,710 - entrez_utils - INFO - Fetching WP_012699491.1 data from GenBank.
+2024-01-05 12:30:11,823 - entrez_utils - INFO - Parsing WP_012699491.1 handle.
+2024-01-05 12:30:12,023 - entrez_utils - INFO - Fetching WP_010798969.1 data from GenBank.
+2024-01-05 12:30:14,435 - entrez_utils - INFO - Parsing WP_010798969.1 handle.
+2024-01-05 12:30:17,077 - entrez_utils - INFO - Fetching WP_004682284.1 data from GenBank.
+2024-01-05 12:30:20,232 - entrez_utils - INFO - Parsing WP_004682284.1 handle.
+2024-01-05 12:30:27,689 - entrez_utils - INFO - Fetching WP_004679578.1 data from GenBank.
+2024-01-05 12:30:29,578 - rodeo_main - INFO - Writing output for query #182.	WP_008452378.1
+2024-01-05 12:30:29,622 - record_processing - INFO - Worker process 3 is processing WP_006883193.1
+2024-01-05 12:30:30,033 - entrez_utils - INFO - Parsing WP_004679578.1 handle.
+2024-01-05 12:30:30,332 - rodeo_main - INFO - Writing output for query #183.	WP_007109703.1
+2024-01-05 12:30:30,334 - record_processing - INFO - Worker process 1 is processing WP_008386970.1
+2024-01-05 12:30:31,320 - entrez_utils - INFO - Fetching WP_004682284.1 data from GenBank.
+2024-01-05 12:30:34,483 - entrez_utils - INFO - Parsing WP_004682284.1 handle.
+2024-01-05 12:30:35,121 - rodeo_main - INFO - Writing output for query #184.	WP_006107294.1
+2024-01-05 12:30:35,123 - record_processing - INFO - Worker process 4 is processing WP_008577022.1
+2024-01-05 12:30:37,672 - rodeo_main - INFO - Writing output for query #185.	WP_006667577.1
+2024-01-05 12:30:37,684 - record_processing - INFO - Worker process 5 is processing WP_008577022.1
+2024-01-05 12:30:40,116 - entrez_utils - INFO - Fetching WP_002607486.1 data from GenBank.
+2024-01-05 12:30:42,009 - rodeo_main - INFO - Writing output for query #186.	WP_006107463.1
+2024-01-05 12:30:42,031 - record_processing - INFO - Worker process 7 is processing WP_008577022.1
+2024-01-05 12:30:42,413 - entrez_utils - INFO - Parsing WP_002607486.1 handle.
+2024-01-05 12:30:43,067 - entrez_utils - INFO - Fetching WP_002590439.1 data from GenBank.
+2024-01-05 12:30:45,414 - entrez_utils - INFO - Parsing WP_002590439.1 handle.
+2024-01-05 12:30:47,399 - entrez_utils - INFO - Fetching WP_002572761.1 data from GenBank.
+2024-01-05 12:30:49,570 - entrez_utils - INFO - Parsing WP_002572761.1 handle.
+2024-01-05 12:30:50,349 - entrez_utils - INFO - Fetching WP_011522559.1 data from GenBank.
+2024-01-05 12:30:53,913 - entrez_utils - INFO - Parsing WP_011522559.1 handle.
+2024-01-05 12:30:57,579 - rodeo_main - INFO - Writing output for query #187.	WP_008012179.1
+2024-01-05 12:30:57,591 - record_processing - INFO - Worker process 2 is processing WP_008094234.1
+2024-01-05 12:31:06,855 - rodeo_main - INFO - Writing output for query #188.	WP_006883348.1
+2024-01-05 12:31:06,859 - record_processing - INFO - Worker process 6 is processing WP_004065348.1
+2024-01-05 12:31:08,681 - entrez_utils - INFO - Fetching WP_005813245.1 data from GenBank.
+2024-01-05 12:31:12,709 - entrez_utils - INFO - Parsing WP_005813245.1 handle.
+2024-01-05 12:31:25,155 - rodeo_main - INFO - Writing output for query #189.	WP_008386970.1
+2024-01-05 12:31:25,181 - record_processing - INFO - Worker process 1 is processing WP_004065348.1
+2024-01-05 12:31:26,975 - entrez_utils - INFO - Fetching WP_005808599.1 data from GenBank.
+2024-01-05 12:31:28,948 - rodeo_main - INFO - Writing output for query #190.	WP_006883193.1
+2024-01-05 12:31:28,954 - record_processing - INFO - Worker process 3 is processing WP_007274989.1
+2024-01-05 12:31:30,175 - entrez_utils - INFO - Parsing WP_005808599.1 handle.
+2024-01-05 12:31:31,577 - rodeo_main - INFO - Writing output for query #191.	WP_008577022.1
+2024-01-05 12:31:31,605 - record_processing - INFO - Worker process 4 is processing WP_008319760.1
+2024-01-05 12:31:33,258 - rodeo_main - INFO - Writing output for query #192.	WP_008577022.1
+2024-01-05 12:31:33,295 - record_processing - INFO - Worker process 5 is processing WP_004969048.1
+2024-01-05 12:31:36,338 - rodeo_main - INFO - Writing output for query #193.	WP_008577022.1
+2024-01-05 12:31:36,343 - record_processing - INFO - Worker process 7 is processing WP_007692688.1
+2024-01-05 12:31:42,092 - entrez_utils - INFO - Fetching WP_005810317.1 data from GenBank.
+2024-01-05 12:31:46,195 - entrez_utils - INFO - Parsing WP_005810317.1 handle.
+2024-01-05 12:31:57,017 - rodeo_main - INFO - Writing output for query #194.	WP_008094234.1
+2024-01-05 12:31:57,042 - record_processing - INFO - Worker process 2 is processing WP_007690926.1
+2024-01-05 12:31:58,833 - entrez_utils - INFO - Fetching WP_011384267.1 data from GenBank.
+2024-01-05 12:32:02,375 - entrez_utils - INFO - Parsing WP_011384267.1 handle.
+2024-01-05 12:32:08,638 - rodeo_main - INFO - Writing output for query #195.	WP_004065348.1
+2024-01-05 12:32:08,644 - record_processing - INFO - Worker process 6 is processing WP_004054918.1
+2024-01-05 12:32:18,806 - entrez_utils - INFO - Fetching WP_011349315.1 data from GenBank.
+2024-01-05 12:32:20,423 - rodeo_main - INFO - Writing output for query #196.	WP_004065348.1
+2024-01-05 12:32:20,425 - record_processing - INFO - Worker process 1 is processing WP_006079258.1
+2024-01-05 12:32:21,520 - entrez_utils - INFO - Parsing WP_011349315.1 handle.
+2024-01-05 12:32:25,613 - entrez_utils - INFO - Fetching WP_002869424.1 data from GenBank.
+2024-01-05 12:32:25,807 - rodeo_main - INFO - Writing output for query #197.	WP_004969048.1
+2024-01-05 12:32:25,809 - record_processing - INFO - Worker process 5 is processing WP_006076247.1
+2024-01-05 12:32:26,018 - rodeo_main - INFO - Writing output for query #198.	WP_007274989.1
+2024-01-05 12:32:26,058 - record_processing - INFO - Worker process 3 is processing WP_007742509.1
+2024-01-05 12:32:27,395 - rodeo_main - INFO - Writing output for query #199.	WP_008319760.1
+2024-01-05 12:32:27,412 - record_processing - INFO - Worker process 4 is processing WP_004051176.1
+2024-01-05 12:32:27,942 - entrez_utils - INFO - Parsing WP_002869424.1 handle.
+2024-01-05 12:32:28,499 - entrez_utils - INFO - Fetching WP_011058594.1 data from GenBank.
+2024-01-05 12:32:31,549 - entrez_utils - INFO - Parsing WP_011058594.1 handle.
+2024-01-05 12:32:32,178 - rodeo_main - INFO - Writing output for query #200.	WP_007692688.1
+2024-01-05 12:32:32,180 - record_processing - INFO - Worker process 7 is processing WP_005042600.1
+2024-01-05 12:32:40,209 - entrez_utils - INFO - Fetching XP_772928.1 data from GenBank.
+2024-01-05 12:32:42,369 - entrez_utils - INFO - Parsing XP_772928.1 handle.
+2024-01-05 12:32:44,179 - entrez_utils - INFO - Fetching WP_001541205.1 data from GenBank.
+2024-01-05 12:32:47,154 - entrez_utils - INFO - Parsing WP_001541205.1 handle.
+2024-01-05 12:32:56,798 - rodeo_main - INFO - Writing output for query #201.	WP_007690926.1
+2024-01-05 12:32:56,827 - record_processing - INFO - Worker process 2 is processing WP_007739401.1
+2024-01-05 12:33:03,047 - entrez_utils - INFO - Fetching XP_567728.1 data from GenBank.
+2024-01-05 12:33:05,213 - entrez_utils - INFO - Parsing XP_567728.1 handle.
+2024-01-05 12:33:06,650 - entrez_utils - INFO - Fetching WP_000509956.1 data from GenBank.
+2024-01-05 12:33:08,746 - rodeo_main - INFO - Writing output for query #202.	WP_004054918.1
+2024-01-05 12:33:08,746 - record_processing - INFO - Worker process 6 is processing WP_002953648.1
+2024-01-05 12:33:10,669 - entrez_utils - INFO - Parsing WP_000509956.1 handle.
+2024-01-05 12:33:20,371 - rodeo_main - INFO - Writing output for query #203.	WP_006079258.1
+2024-01-05 12:33:20,373 - record_processing - INFO - Worker process 1 is processing WP_009495403.1
+2024-01-05 12:33:21,708 - rodeo_main - INFO - Writing output for query #204.	WP_006076247.1
+2024-01-05 12:33:21,711 - record_processing - INFO - Worker process 5 is processing WP_001094889.1
+2024-01-05 12:33:25,764 - record_processing - INFO - Worker process 7 is processing WP_012699491.1
+2024-01-05 12:33:25,773 - rodeo_main - INFO - Writing output for query #205.	WP_005042600.1
+2024-01-05 12:33:26,042 - rodeo_main - INFO - Writing output for query #206.	WP_004051176.1
+2024-01-05 12:33:26,046 - record_processing - INFO - Worker process 4 is processing WP_010798969.1
+2024-01-05 12:33:26,364 - rodeo_main - INFO - Writing output for query #207.	WP_007742509.1
+2024-01-05 12:33:26,377 - record_processing - INFO - Worker process 3 is processing WP_004682284.1
+2024-01-05 12:33:27,833 - entrez_utils - INFO - Fetching WP_011093135.1 data from GenBank.
+2024-01-05 12:33:30,140 - rodeo_main - INFO - Writing output for query #208.	WP_002953648.1
+2024-01-05 12:33:30,143 - record_processing - INFO - Worker process 6 is processing WP_004679578.1
+2024-01-05 12:33:30,314 - entrez_utils - INFO - Parsing WP_011093135.1 handle.
+2024-01-05 12:33:33,141 - entrez_utils - INFO - Fetching WP_000509958.1 data from GenBank.
+2024-01-05 12:33:35,704 - entrez_utils - INFO - Parsing WP_000509958.1 handle.
+2024-01-05 12:33:41,099 - entrez_utils - INFO - Fetching NP_719404.1 data from GenBank.
+2024-01-05 12:33:41,916 - entrez_utils - INFO - Fetching WP_000459868.1 data from GenBank.
+2024-01-05 12:33:45,304 - entrez_utils - INFO - Parsing WP_000459868.1 handle.
+2024-01-05 12:33:55,533 - rodeo_main - INFO - Writing output for query #209.	WP_007739401.1
+2024-01-05 12:33:55,564 - record_processing - INFO - Worker process 2 is processing WP_004682284.1
+2024-01-05 12:33:56,172 - entrez_utils - INFO - Fetching WP_000669894.1 data from GenBank.
+2024-01-05 12:33:58,469 - entrez_utils - INFO - Parsing WP_000669894.1 handle.
+2024-01-05 12:33:58,940 - entrez_utils - INFO - Fetching NP_457583.1 data from GenBank.
+2024-01-05 12:33:59,179 - rodeo_main - INFO - Writing output for query #210.	WP_012699491.1
+2024-01-05 12:33:59,188 - record_processing - INFO - Worker process 7 is processing WP_002607486.1
+2024-01-05 12:34:01,823 - entrez_utils - INFO - Parsing NP_457583.1 handle.
+2024-01-05 12:34:02,131 - rodeo_main - INFO - Writing output for query #211.	WP_004679578.1
+2024-01-05 12:34:02,135 - record_processing - INFO - Worker process 6 is processing WP_002590439.1
+2024-01-05 12:34:13,749 - entrez_utils - ERROR - Accession NP_457583.1 not found.
+2024-01-05 12:34:13,884 - entrez_utils - INFO - Fetching WP_001094796.1 data from GenBank.
+2024-01-05 12:34:16,126 - entrez_utils - INFO - Parsing WP_001094796.1 handle.
+2024-01-05 12:34:16,861 - entrez_utils - INFO - Fetching WP_001035853.1 data from GenBank.
+2024-01-05 12:34:19,139 - entrez_utils - INFO - Parsing WP_001035853.1 handle.
+2024-01-05 12:34:19,643 - entrez_utils - INFO - Fetching WP_000532242.1 data from GenBank.
+2024-01-05 12:34:19,782 - rodeo_main - INFO - Writing output for query #212.	WP_001094889.1
+2024-01-05 12:34:19,801 - record_processing - INFO - Worker process 5 is processing WP_002572761.1
+2024-01-05 12:34:20,397 - rodeo_main - INFO - Writing output for query #213.	WP_009495403.1
+2024-01-05 12:34:20,686 - record_processing - INFO - Worker process 1 is processing WP_011522559.1
+2024-01-05 12:34:23,224 - entrez_utils - INFO - Parsing WP_000532242.1 handle.
+2024-01-05 12:34:23,466 - rodeo_main - INFO - Writing output for query #214.	WP_004682284.1
+2024-01-05 12:34:23,548 - record_processing - INFO - Worker process 3 is processing WP_005813245.1
+2024-01-05 12:34:24,839 - rodeo_main - INFO - Writing output for query #215.	WP_010798969.1
+2024-01-05 12:34:24,968 - record_processing - INFO - Worker process 4 is processing WP_005808599.1
+2024-01-05 12:34:54,156 - rodeo_main - INFO - Writing output for query #216.	WP_004682284.1
+2024-01-05 12:34:54,322 - record_processing - INFO - Worker process 2 is processing WP_005810317.1
+2024-01-05 12:34:55,837 - rodeo_main - INFO - Writing output for query #217.	WP_002607486.1
+2024-01-05 12:34:55,984 - record_processing - INFO - Worker process 7 is processing WP_011384267.1
+2024-01-05 12:34:59,908 - rodeo_main - INFO - Writing output for query #218.	WP_002590439.1
+2024-01-05 12:34:59,916 - record_processing - INFO - Worker process 6 is processing WP_011349315.1
+2024-01-05 12:35:08,340 - entrez_utils - ERROR - Accession WP_000532242.1 not found.
+2024-01-05 12:35:08,474 - entrez_utils - INFO - Fetching WP_001094892.1 data from GenBank.
+2024-01-05 12:35:11,696 - entrez_utils - INFO - Parsing WP_001094892.1 handle.
+2024-01-05 12:35:12,810 - entrez_utils - INFO - Fetching WP_001036514.1 data from GenBank.
+2024-01-05 12:35:13,915 - rodeo_main - INFO - Writing output for query #219.	WP_002572761.1
+2024-01-05 12:35:13,917 - record_processing - INFO - Worker process 5 is processing WP_002869424.1
+2024-01-05 12:35:15,895 - entrez_utils - INFO - Parsing WP_001036514.1 handle.
+2024-01-05 12:35:16,862 - entrez_utils - INFO - Fetching WP_003144052.1 data from GenBank.
+2024-01-05 12:35:19,159 - entrez_utils - INFO - Parsing WP_003144052.1 handle.
+2024-01-05 12:35:19,534 - rodeo_main - INFO - Writing output for query #220.	WP_011522559.1
+2024-01-05 12:35:19,585 - record_processing - INFO - Worker process 1 is processing WP_011058594.1
+2024-01-05 12:35:20,351 - entrez_utils - INFO - Fetching WP_000669904.1 data from GenBank.
+2024-01-05 12:35:22,958 - record_processing - INFO - Worker process 3 is processing XP_772928.1
+2024-01-05 12:35:22,969 - rodeo_main - INFO - Writing output for query #221.	WP_005813245.1
+2024-01-05 12:35:23,657 - entrez_utils - INFO - Parsing WP_000669904.1 handle.
+2024-01-05 12:35:23,818 - rodeo_main - INFO - Writing output for query #222.	WP_005808599.1
+2024-01-05 12:35:24,064 - record_processing - INFO - Worker process 4 is processing WP_001541205.1
+2024-01-05 12:35:49,365 - rodeo_main - INFO - Writing output for query #223.	WP_011384267.1
+2024-01-05 12:35:49,366 - record_processing - INFO - Worker process 7 is processing XP_567728.1
+2024-01-05 12:35:52,185 - record_processing - INFO - Worker process 2 is processing WP_000509956.1
+2024-01-05 12:35:52,278 - rodeo_main - INFO - Writing output for query #224.	WP_005810317.1
+2024-01-05 12:35:54,857 - record_processing - INFO - Worker process 6 is processing WP_011093135.1
+2024-01-05 12:35:54,858 - rodeo_main - INFO - Writing output for query #225.	WP_011349315.1
+2024-01-05 12:36:03,518 - rodeo_main - INFO - Writing output for query #226.	XP_772928.1
+2024-01-05 12:36:03,521 - record_processing - INFO - Worker process 3 is processing WP_000509958.1
+2024-01-05 12:36:06,086 - entrez_utils - ERROR - Accession WP_000669904.1 not found.
+2024-01-05 12:36:06,166 - entrez_utils - INFO - Fetching WP_002575275.1 data from GenBank.
+2024-01-05 12:36:10,149 - entrez_utils - INFO - Parsing WP_002575275.1 handle.
+2024-01-05 12:36:14,644 - rodeo_main - INFO - Writing output for query #227.	WP_002869424.1
+2024-01-05 12:36:14,655 - rodeo_main - INFO - Writing output for query #228.	NP_719404.1
+2024-01-05 12:36:14,655 - rodeo_main - ERROR - For NP_719404.1:	No results in nuccore db for value obtained from protein db
+2024-01-05 12:36:14,775 - record_processing - INFO - Worker process 5 is processing WP_000459868.1
+2024-01-05 12:36:19,775 - record_processing - INFO - Worker process 1 is processing WP_000669894.1
+2024-01-05 12:36:19,785 - rodeo_main - INFO - Writing output for query #229.	WP_011058594.1
+2024-01-05 12:36:22,617 - rodeo_main - INFO - Writing output for query #230.	WP_001541205.1
+2024-01-05 12:36:22,618 - rodeo_main - INFO - Writing output for query #231.	NP_457583.1
+2024-01-05 12:36:22,618 - rodeo_main - ERROR - For NP_457583.1:	Couldn't process NP_457583.1 Genbank filestream. May be corrupt.
+2024-01-05 12:36:22,631 - record_processing - INFO - Worker process 4 is processing WP_001094796.1
+2024-01-05 12:36:26,455 - entrez_utils - INFO - Fetching XP_005793680.1 data from GenBank.
+2024-01-05 12:36:28,764 - entrez_utils - INFO - Parsing XP_005793680.1 handle.
+2024-01-05 12:36:30,331 - entrez_utils - INFO - Fetching WP_010744161.1 data from GenBank.
+2024-01-05 12:36:32,172 - record_processing - INFO - Worker process 7 is processing WP_001035853.1
+2024-01-05 12:36:32,176 - rodeo_main - INFO - Writing output for query #232.	XP_567728.1
+2024-01-05 12:36:32,902 - entrez_utils - INFO - Parsing WP_010744161.1 handle.
+2024-01-05 12:36:35,593 - entrez_utils - INFO - Fetching WP_010741437.1 data from GenBank.
+2024-01-05 12:36:37,892 - entrez_utils - INFO - Parsing WP_010741437.1 handle.
+2024-01-05 12:36:39,400 - entrez_utils - INFO - Fetching WP_010754228.1 data from GenBank.
+2024-01-05 12:36:41,590 - entrez_utils - INFO - Parsing WP_010754228.1 handle.
+2024-01-05 12:36:41,894 - entrez_utils - INFO - Fetching WP_010758589.1 data from GenBank.
+2024-01-05 12:36:44,152 - entrez_utils - INFO - Parsing WP_010758589.1 handle.
+2024-01-05 12:36:44,558 - entrez_utils - INFO - Fetching WP_015617143.1 data from GenBank.
+2024-01-05 12:36:48,219 - entrez_utils - INFO - Parsing WP_015617143.1 handle.
+2024-01-05 12:36:49,055 - rodeo_main - INFO - Writing output for query #233.	WP_000509956.1
+2024-01-05 12:36:49,106 - rodeo_main - INFO - Writing output for query #234.	WP_000532242.1
+2024-01-05 12:36:49,106 - rodeo_main - ERROR - For WP_000532242.1:	Couldn't process WP_000532242.1 Genbank filestream. May be corrupt.
+2024-01-05 12:36:49,165 - record_processing - INFO - Worker process 2 is processing WP_001094892.1
+2024-01-05 12:36:58,188 - record_processing - INFO - Worker process 6 is processing WP_001036514.1
+2024-01-05 12:36:58,188 - rodeo_main - INFO - Writing output for query #235.	WP_011093135.1
+2024-01-05 12:37:02,479 - entrez_utils - INFO - Fetching WP_016154526.1 data from GenBank.
+2024-01-05 12:37:03,914 - record_processing - INFO - Worker process 3 is processing WP_003144052.1
+2024-01-05 12:37:03,924 - rodeo_main - INFO - Writing output for query #236.	WP_000509958.1
+2024-01-05 12:37:06,315 - entrez_utils - INFO - Parsing WP_016154526.1 handle.
+2024-01-05 12:37:07,288 - rodeo_main - INFO - Writing output for query #237.	WP_000669894.1
+2024-01-05 12:37:07,290 - rodeo_main - INFO - Writing output for query #238.	WP_000669904.1
+2024-01-05 12:37:07,290 - rodeo_main - ERROR - For WP_000669904.1:	Couldn't process WP_000669904.1 Genbank filestream. May be corrupt.
+2024-01-05 12:37:07,355 - record_processing - INFO - Worker process 1 is processing WP_002575275.1
+2024-01-05 12:37:14,735 - rodeo_main - INFO - Writing output for query #239.	WP_000459868.1
+2024-01-05 12:37:14,755 - record_processing - INFO - Worker process 5 is processing XP_005793680.1
+2024-01-05 12:37:16,817 - rodeo_main - INFO - Writing output for query #240.	WP_001094796.1
+2024-01-05 12:37:16,822 - record_processing - INFO - Worker process 4 is processing WP_010744161.1
+2024-01-05 12:37:20,573 - entrez_utils - INFO - Fetching WP_016275387.1 data from GenBank.
+2024-01-05 12:37:22,777 - entrez_utils - INFO - Parsing WP_016275387.1 handle.
+2024-01-05 12:37:23,102 - entrez_utils - INFO - Fetching WP_016484374.1 data from GenBank.
+2024-01-05 12:37:25,419 - entrez_utils - INFO - Parsing WP_016484374.1 handle.
+2024-01-05 12:37:26,197 - entrez_utils - INFO - Fetching WP_004625723.1 data from GenBank.
+2024-01-05 12:37:28,413 - entrez_utils - INFO - Parsing WP_004625723.1 handle.
+2024-01-05 12:37:29,106 - entrez_utils - INFO - Fetching WP_006966619.1 data from GenBank.
+2024-01-05 12:37:30,588 - record_processing - INFO - Worker process 7 is processing WP_010741437.1
+2024-01-05 12:37:30,592 - rodeo_main - INFO - Writing output for query #241.	WP_001035853.1
+2024-01-05 12:37:31,305 - entrez_utils - INFO - Parsing WP_006966619.1 handle.
+2024-01-05 12:37:32,113 - entrez_utils - INFO - Fetching WP_006965969.1 data from GenBank.
+2024-01-05 12:37:34,399 - entrez_utils - INFO - Parsing WP_006965969.1 handle.
+2024-01-05 12:37:35,573 - entrez_utils - INFO - Fetching WP_010801567.1 data from GenBank.
+2024-01-05 12:37:37,853 - entrez_utils - INFO - Parsing WP_010801567.1 handle.
+2024-01-05 12:37:38,658 - entrez_utils - INFO - Fetching WP_010802352.1 data from GenBank.
+2024-01-05 12:37:41,518 - entrez_utils - INFO - Parsing WP_010802352.1 handle.
+2024-01-05 12:37:46,804 - entrez_utils - INFO - Fetching WP_016479708.1 data from GenBank.
+2024-01-05 12:37:47,485 - rodeo_main - INFO - Writing output for query #242.	WP_001094892.1
+2024-01-05 12:37:47,513 - record_processing - INFO - Worker process 2 is processing WP_010754228.1
+2024-01-05 12:37:48,990 - entrez_utils - INFO - Parsing WP_016479708.1 handle.
+2024-01-05 12:37:49,542 - entrez_utils - INFO - Fetching WP_016474146.1 data from GenBank.
+2024-01-05 12:37:51,812 - entrez_utils - INFO - Parsing WP_016474146.1 handle.
+2024-01-05 12:37:52,473 - entrez_utils - INFO - Fetching WP_016474709.1 data from GenBank.
+2024-01-05 12:37:54,788 - entrez_utils - INFO - Parsing WP_016474709.1 handle.
+2024-01-05 12:37:54,832 - entrez_utils - INFO - Fetching WP_016474461.1 data from GenBank.
+2024-01-05 12:37:57,328 - entrez_utils - INFO - Parsing WP_016474461.1 handle.
+2024-01-05 12:37:57,506 - rodeo_main - INFO - Writing output for query #243.	WP_001036514.1
+2024-01-05 12:37:57,508 - record_processing - INFO - Worker process 6 is processing WP_010758589.1
+2024-01-05 12:37:57,556 - entrez_utils - INFO - Fetching WP_016474292.1 data from GenBank.
+2024-01-05 12:37:59,686 - rodeo_main - INFO - Writing output for query #244.	WP_002575275.1
+2024-01-05 12:37:59,792 - record_processing - INFO - Worker process 1 is processing WP_015617143.1
+2024-01-05 12:38:00,822 - entrez_utils - INFO - Parsing WP_016474292.1 handle.
+2024-01-05 12:38:02,960 - rodeo_main - INFO - Writing output for query #245.	WP_003144052.1
+2024-01-05 12:38:03,115 - record_processing - INFO - Worker process 3 is processing WP_016154526.1
+2024-01-05 12:38:08,618 - entrez_utils - INFO - Fetching WP_016473726.1 data from GenBank.
+2024-01-05 12:38:10,899 - entrez_utils - INFO - Parsing WP_016473726.1 handle.
+2024-01-05 12:38:11,344 - entrez_utils - INFO - Fetching WP_016473795.1 data from GenBank.
+2024-01-05 12:38:13,519 - rodeo_main - INFO - Writing output for query #246.	WP_010744161.1
+2024-01-05 12:38:13,529 - record_processing - INFO - Worker process 4 is processing WP_016275387.1
+2024-01-05 12:38:13,641 - entrez_utils - INFO - Parsing WP_016473795.1 handle.
+2024-01-05 12:38:13,867 - entrez_utils - INFO - Fetching WP_016474384.1 data from GenBank.
+2024-01-05 12:38:15,388 - record_processing - INFO - Worker process 7 is processing WP_016484374.1
+2024-01-05 12:38:15,391 - rodeo_main - INFO - Writing output for query #247.	WP_010741437.1
+2024-01-05 12:38:16,073 - entrez_utils - INFO - Parsing WP_016474384.1 handle.
+2024-01-05 12:38:16,386 - entrez_utils - INFO - Fetching WP_016473835.1 data from GenBank.
+2024-01-05 12:38:18,664 - entrez_utils - INFO - Parsing WP_016473835.1 handle.
+2024-01-05 12:38:18,941 - entrez_utils - INFO - Fetching WP_016474477.1 data from GenBank.
+2024-01-05 12:38:20,949 - rodeo_main - INFO - Writing output for query #248.	XP_005793680.1
+2024-01-05 12:38:20,978 - record_processing - INFO - Worker process 5 is processing WP_004625723.1
+2024-01-05 12:38:21,119 - entrez_utils - INFO - Parsing WP_016474477.1 handle.
+2024-01-05 12:38:21,152 - entrez_utils - INFO - Fetching WP_016474076.1 data from GenBank.
+2024-01-05 12:38:23,411 - entrez_utils - INFO - Parsing WP_016474076.1 handle.
+2024-01-05 12:38:23,809 - entrez_utils - INFO - Fetching WP_016646214.1 data from GenBank.
+2024-01-05 12:38:26,377 - entrez_utils - INFO - Parsing WP_016646214.1 handle.
+2024-01-05 12:38:29,252 - entrez_utils - INFO - Fetching WP_016646216.1 data from GenBank.
+2024-01-05 12:38:31,801 - entrez_utils - INFO - Parsing WP_016646216.1 handle.
+2024-01-05 12:38:34,311 - entrez_utils - INFO - Fetching WP_016646213.1 data from GenBank.
+2024-01-05 12:38:36,735 - entrez_utils - INFO - Parsing WP_016646213.1 handle.
+2024-01-05 12:38:39,077 - entrez_utils - INFO - Fetching WP_016646215.1 data from GenBank.
+2024-01-05 12:38:41,422 - entrez_utils - INFO - Parsing WP_016646215.1 handle.
+2024-01-05 12:38:43,898 - entrez_utils - INFO - Fetching WP_000534443.1 data from GenBank.
+2024-01-05 12:38:47,434 - entrez_utils - INFO - Parsing WP_000534443.1 handle.
+2024-01-05 12:38:48,226 - rodeo_main - INFO - Writing output for query #249.	WP_010754228.1
+2024-01-05 12:38:48,244 - record_processing - INFO - Worker process 2 is processing WP_006966619.1
+2024-01-05 12:38:49,719 - rodeo_main - INFO - Writing output for query #250.	WP_010758589.1
+2024-01-05 12:38:49,722 - record_processing - INFO - Worker process 6 is processing WP_006965969.1
+2024-01-05 12:38:52,380 - rodeo_main - INFO - Writing output for query #251.	WP_016275387.1
+2024-01-05 12:38:52,388 - record_processing - INFO - Worker process 4 is processing WP_010801567.1
+2024-01-05 12:38:58,985 - entrez_utils - INFO - Fetching WP_020897663.1 data from GenBank.
+2024-01-05 12:39:01,097 - entrez_utils - INFO - Parsing WP_020897663.1 handle.
+2024-01-05 12:39:01,581 - entrez_utils - INFO - Fetching WP_021618551.1 data from GenBank.
+2024-01-05 12:39:02,602 - rodeo_main - INFO - Writing output for query #252.	WP_015617143.1
+2024-01-05 12:39:02,624 - record_processing - INFO - Worker process 1 is processing WP_010802352.1
+2024-01-05 12:39:03,592 - rodeo_main - INFO - Writing output for query #253.	WP_016154526.1
+2024-01-05 12:39:03,647 - record_processing - INFO - Worker process 3 is processing WP_016479708.1
+2024-01-05 12:39:03,979 - entrez_utils - INFO - Parsing WP_021618551.1 handle.
+2024-01-05 12:39:04,287 - entrez_utils - INFO - Fetching WP_021742169.1 data from GenBank.
+2024-01-05 12:39:06,820 - entrez_utils - INFO - Parsing WP_021742169.1 handle.
+2024-01-05 12:39:12,556 - rodeo_main - INFO - Writing output for query #254.	WP_016484374.1
+2024-01-05 12:39:12,559 - record_processing - INFO - Worker process 7 is processing WP_016474146.1
+2024-01-05 12:39:13,147 - entrez_utils - INFO - Fetching WP_021737515.1 data from GenBank.
+2024-01-05 12:39:15,303 - entrez_utils - INFO - Parsing WP_021737515.1 handle.
+2024-01-05 12:39:15,727 - entrez_utils - INFO - Fetching WP_021740542.1 data from GenBank.
+2024-01-05 12:39:17,931 - entrez_utils - INFO - Parsing WP_021740542.1 handle.
+2024-01-05 12:39:18,230 - entrez_utils - INFO - Fetching WP_019047298.1 data from GenBank.
+2024-01-05 12:39:20,048 - rodeo_main - INFO - Writing output for query #255.	WP_004625723.1
+2024-01-05 12:39:20,049 - record_processing - INFO - Worker process 5 is processing WP_016474709.1
+2024-01-05 12:39:21,401 - entrez_utils - INFO - Parsing WP_019047298.1 handle.
+2024-01-05 12:39:39,552 - entrez_utils - INFO - Fetching WP_023163458.1 data from GenBank.
+2024-01-05 12:39:41,905 - entrez_utils - INFO - Parsing WP_023163458.1 handle.
+2024-01-05 12:39:43,504 - entrez_utils - INFO - Fetching WP_005941671.1 data from GenBank.
+2024-01-05 12:39:46,615 - entrez_utils - INFO - Parsing WP_005941671.1 handle.
+2024-01-05 12:39:46,676 - rodeo_main - INFO - Writing output for query #256.	WP_006965969.1
+2024-01-05 12:39:46,678 - record_processing - INFO - Worker process 6 is processing WP_016474461.1
+2024-01-05 12:39:47,057 - entrez_utils - INFO - Fetching WP_023036469.1 data from GenBank.
+2024-01-05 12:39:48,407 - rodeo_main - INFO - Writing output for query #257.	WP_006966619.1
+2024-01-05 12:39:48,422 - record_processing - INFO - Worker process 2 is processing WP_016474292.1
+2024-01-05 12:39:48,771 - rodeo_main - INFO - Writing output for query #258.	WP_010801567.1
+2024-01-05 12:39:48,777 - record_processing - INFO - Worker process 4 is processing WP_016473726.1
+2024-01-05 12:39:49,359 - entrez_utils - INFO - Parsing WP_023036469.1 handle.
+2024-01-05 12:39:50,041 - entrez_utils - INFO - Fetching WP_023051599.1 data from GenBank.
+2024-01-05 12:39:52,304 - entrez_utils - INFO - Parsing WP_023051599.1 handle.
+2024-01-05 12:39:52,331 - entrez_utils - INFO - Fetching WP_023185152.1 data from GenBank.
+2024-01-05 12:39:54,490 - entrez_utils - INFO - Parsing WP_023185152.1 handle.
+2024-01-05 12:39:54,963 - entrez_utils - INFO - Fetching WP_023353578.1 data from GenBank.
+2024-01-05 12:39:55,582 - rodeo_main - INFO - Writing output for query #259.	WP_016474709.1
+2024-01-05 12:39:55,613 - record_processing - INFO - Worker process 5 is processing WP_016473795.1
+2024-01-05 12:39:57,608 - entrez_utils - INFO - Parsing WP_023353578.1 handle.
+2024-01-05 12:39:59,921 - entrez_utils - INFO - Fetching WP_023649440.1 data from GenBank.
+2024-01-05 12:40:02,101 - rodeo_main - INFO - Writing output for query #260.	WP_010802352.1
+2024-01-05 12:40:02,103 - record_processing - INFO - Worker process 1 is processing WP_016474384.1
+2024-01-05 12:40:02,197 - entrez_utils - INFO - Parsing WP_023649440.1 handle.
+2024-01-05 12:40:02,334 - entrez_utils - INFO - Fetching WP_024011150.1 data from GenBank.
+2024-01-05 12:40:06,001 - rodeo_main - INFO - Writing output for query #261.	WP_016479708.1
+2024-01-05 12:40:06,011 - record_processing - INFO - Worker process 3 is processing WP_016473835.1
+2024-01-05 12:40:06,515 - entrez_utils - INFO - Parsing WP_024011150.1 handle.
+2024-01-05 12:40:14,787 - rodeo_main - INFO - Writing output for query #262.	WP_016474146.1
+2024-01-05 12:40:14,788 - record_processing - INFO - Worker process 7 is processing WP_016474477.1
+2024-01-05 12:40:22,983 - entrez_utils - INFO - Fetching WP_023965029.1 data from GenBank.
+2024-01-05 12:40:25,102 - entrez_utils - INFO - Parsing WP_023965029.1 handle.
+2024-01-05 12:40:25,333 - entrez_utils - INFO - Fetching WP_008680065.1 data from GenBank.
+2024-01-05 12:40:27,573 - entrez_utils - INFO - Parsing WP_008680065.1 handle.
+2024-01-05 12:40:28,854 - entrez_utils - INFO - Fetching WP_025420755.1 data from GenBank.
+2024-01-05 12:40:32,393 - entrez_utils - INFO - Parsing WP_025420755.1 handle.
+2024-01-05 12:40:41,409 - rodeo_main - INFO - Writing output for query #263.	WP_016474477.1
+2024-01-05 12:40:41,433 - record_processing - INFO - Worker process 7 is processing WP_016474076.1
+2024-01-05 12:40:43,918 - rodeo_main - INFO - Writing output for query #264.	WP_016474461.1
+2024-01-05 12:40:44,010 - record_processing - INFO - Worker process 6 is processing WP_016646214.1
+2024-01-05 12:40:45,068 - entrez_utils - INFO - Fetching WP_049954382.1 data from GenBank.
+2024-01-05 12:40:46,595 - record_processing - INFO - Worker process 2 is processing WP_016646216.1
+2024-01-05 12:40:46,601 - rodeo_main - INFO - Writing output for query #265.	WP_016474292.1
+2024-01-05 12:40:47,425 - entrez_utils - INFO - Parsing WP_049954382.1 handle.
+2024-01-05 12:40:49,082 - entrez_utils - INFO - Fetching WP_049954312.1 data from GenBank.
+2024-01-05 12:40:51,311 - entrez_utils - INFO - Parsing WP_049954312.1 handle.
+2024-01-05 12:40:51,628 - rodeo_main - INFO - Writing output for query #266.	WP_016473726.1
+2024-01-05 12:40:51,635 - record_processing - INFO - Worker process 4 is processing WP_016646213.1
+2024-01-05 12:40:52,442 - entrez_utils - INFO - Fetching WP_051706542.1 data from GenBank.
+2024-01-05 12:40:54,987 - entrez_utils - INFO - Parsing WP_051706542.1 handle.
+2024-01-05 12:40:55,464 - rodeo_main - INFO - Writing output for query #267.	WP_016473795.1
+2024-01-05 12:40:55,527 - record_processing - INFO - Worker process 5 is processing WP_016646215.1
+2024-01-05 12:41:00,800 - entrez_utils - INFO - Fetching WP_036670115.1 data from GenBank.
+2024-01-05 12:41:03,472 - entrez_utils - INFO - Parsing WP_036670115.1 handle.
+2024-01-05 12:41:04,726 - rodeo_main - INFO - Writing output for query #268.	WP_016473835.1
+2024-01-05 12:41:04,769 - record_processing - INFO - Worker process 3 is processing WP_000534443.1
+2024-01-05 12:41:05,171 - rodeo_main - INFO - Writing output for query #269.	WP_016474384.1
+2024-01-05 12:41:05,180 - record_processing - INFO - Worker process 1 is processing WP_020897663.1
+2024-01-05 12:41:08,646 - entrez_utils - INFO - Fetching WP_036639301.1 data from GenBank.
+2024-01-05 12:41:10,884 - entrez_utils - INFO - Parsing WP_036639301.1 handle.
+2024-01-05 12:41:13,155 - entrez_utils - INFO - Fetching WP_036695566.1 data from GenBank.
+2024-01-05 12:41:15,587 - entrez_utils - INFO - Parsing WP_036695566.1 handle.
+2024-01-05 12:41:16,216 - entrez_utils - INFO - Fetching WP_006292751.1 data from GenBank.
+2024-01-05 12:41:19,057 - entrez_utils - INFO - Parsing WP_006292751.1 handle.
+2024-01-05 12:41:23,362 - entrez_utils - INFO - Fetching WP_009622155.1 data from GenBank.
+2024-01-05 12:41:27,287 - entrez_utils - INFO - Parsing WP_009622155.1 handle.
+2024-01-05 12:41:42,882 - record_processing - INFO - Worker process 6 is processing WP_021618551.1
+2024-01-05 12:41:42,886 - rodeo_main - INFO - Writing output for query #270.	WP_016646214.1
+2024-01-05 12:41:42,974 - rodeo_main - INFO - Writing output for query #271.	WP_016474076.1
+2024-01-05 12:41:42,980 - record_processing - INFO - Worker process 7 is processing WP_021742169.1
+2024-01-05 12:41:47,817 - entrez_utils - INFO - Fetching WP_017895043.1 data from GenBank.
+2024-01-05 12:41:49,750 - record_processing - INFO - Worker process 2 is processing WP_021737515.1
+2024-01-05 12:41:49,754 - rodeo_main - INFO - Writing output for query #272.	WP_016646216.1
+2024-01-05 12:41:50,142 - entrez_utils - INFO - Parsing WP_017895043.1 handle.
+2024-01-05 12:41:51,212 - rodeo_main - INFO - Writing output for query #273.	WP_016646213.1
+2024-01-05 12:41:51,215 - record_processing - INFO - Worker process 4 is processing WP_021740542.1
+2024-01-05 12:41:52,101 - entrez_utils - INFO - Fetching WP_051483703.1 data from GenBank.
+2024-01-05 12:41:55,123 - entrez_utils - INFO - Parsing WP_051483703.1 handle.
+2024-01-05 12:41:58,524 - rodeo_main - INFO - Writing output for query #274.	WP_016646215.1
+2024-01-05 12:41:58,656 - record_processing - INFO - Worker process 5 is processing WP_019047298.1
+2024-01-05 12:42:03,418 - rodeo_main - INFO - Writing output for query #275.	WP_020897663.1
+2024-01-05 12:42:03,423 - record_processing - INFO - Worker process 1 is processing WP_023163458.1
+2024-01-05 12:42:03,694 - entrez_utils - INFO - Fetching WP_007963452.1 data from GenBank.
+2024-01-05 12:42:04,393 - record_processing - INFO - Worker process 3 is processing WP_005941671.1
+2024-01-05 12:42:04,405 - rodeo_main - INFO - Writing output for query #276.	WP_000534443.1
+2024-01-05 12:42:06,012 - entrez_utils - INFO - Parsing WP_007963452.1 handle.
+2024-01-05 12:42:07,510 - entrez_utils - INFO - Fetching WP_036645823.1 data from GenBank.
+2024-01-05 12:42:10,050 - entrez_utils - INFO - Parsing WP_036645823.1 handle.
+2024-01-05 12:42:11,859 - entrez_utils - INFO - Fetching WP_052476639.1 data from GenBank.
+2024-01-05 12:42:14,939 - entrez_utils - INFO - Parsing WP_052476639.1 handle.
+2024-01-05 12:42:22,510 - entrez_utils - INFO - Fetching WP_025332791.1 data from GenBank.
+2024-01-05 12:42:26,146 - entrez_utils - INFO - Parsing WP_025332791.1 handle.
+2024-01-05 12:42:41,892 - record_processing - INFO - Worker process 6 is processing WP_023036469.1
+2024-01-05 12:42:41,899 - rodeo_main - INFO - Writing output for query #277.	WP_021618551.1
+2024-01-05 12:42:41,948 - entrez_utils - INFO - Fetching WP_052539870.1 data from GenBank.
+2024-01-05 12:42:44,179 - record_processing - INFO - Worker process 7 is processing WP_023051599.1
+2024-01-05 12:42:44,211 - rodeo_main - INFO - Writing output for query #278.	WP_021742169.1
+2024-01-05 12:42:45,017 - entrez_utils - INFO - Parsing WP_052539870.1 handle.
+2024-01-05 12:42:51,158 - rodeo_main - INFO - Writing output for query #279.	WP_021740542.1
+2024-01-05 12:42:51,160 - record_processing - INFO - Worker process 4 is processing WP_023185152.1
+2024-01-05 12:42:52,392 - record_processing - INFO - Worker process 2 is processing WP_023353578.1
+2024-01-05 12:42:52,395 - rodeo_main - INFO - Writing output for query #280.	WP_021737515.1
+2024-01-05 12:42:56,492 - entrez_utils - INFO - Fetching WP_036433466.1 data from GenBank.
+2024-01-05 12:42:58,671 - entrez_utils - INFO - Parsing WP_036433466.1 handle.
+2024-01-05 12:42:59,091 - rodeo_main - INFO - Writing output for query #281.	WP_019047298.1
+2024-01-05 12:42:59,095 - record_processing - INFO - Worker process 5 is processing WP_023649440.1
+2024-01-05 12:42:59,223 - entrez_utils - INFO - Fetching WP_032888762.1 data from GenBank.
+2024-01-05 12:42:59,671 - rodeo_main - INFO - Writing output for query #282.	WP_023163458.1
+2024-01-05 12:42:59,948 - record_processing - INFO - Worker process 1 is processing WP_024011150.1
+2024-01-05 12:43:02,023 - entrez_utils - INFO - Parsing WP_032888762.1 handle.
+2024-01-05 12:43:06,798 - rodeo_main - INFO - Writing output for query #283.	WP_005941671.1
+2024-01-05 12:43:06,800 - record_processing - INFO - Worker process 3 is processing WP_023965029.1
+2024-01-05 12:43:08,721 - entrez_utils - INFO - Fetching WP_032846767.1 data from GenBank.
+2024-01-05 12:43:11,043 - entrez_utils - INFO - Parsing WP_032846767.1 handle.
+2024-01-05 12:43:11,461 - entrez_utils - INFO - Fetching WP_032836233.1 data from GenBank.
+2024-01-05 12:43:13,688 - entrez_utils - INFO - Parsing WP_032836233.1 handle.
+2024-01-05 12:43:15,456 - rodeo_main - INFO - Writing output for query #284.	WP_023051599.1
+2024-01-05 12:43:15,470 - record_processing - INFO - Worker process 7 is processing WP_008680065.1
+2024-01-05 12:43:34,363 - rodeo_main - INFO - Writing output for query #285.	WP_023036469.1
+2024-01-05 12:43:34,465 - record_processing - INFO - Worker process 6 is processing WP_025420755.1
+2024-01-05 12:43:48,178 - rodeo_main - INFO - Writing output for query #286.	WP_023185152.1
+2024-01-05 12:43:48,232 - record_processing - INFO - Worker process 4 is processing WP_049954382.1
+2024-01-05 12:43:51,047 - rodeo_main - INFO - Writing output for query #287.	WP_023353578.1
+2024-01-05 12:43:51,051 - record_processing - INFO - Worker process 2 is processing WP_049954312.1
+2024-01-05 12:43:52,393 - record_processing - INFO - Worker process 7 is processing WP_051706542.1
+2024-01-05 12:43:52,394 - rodeo_main - INFO - Writing output for query #288.	WP_008680065.1
+2024-01-05 12:43:57,382 - rodeo_main - INFO - Writing output for query #289.	WP_023649440.1
+2024-01-05 12:43:57,392 - record_processing - INFO - Worker process 5 is processing WP_036670115.1
+2024-01-05 12:43:58,511 - rodeo_main - INFO - Writing output for query #290.	WP_024011150.1
+2024-01-05 12:43:58,516 - record_processing - INFO - Worker process 1 is processing WP_036639301.1
+2024-01-05 12:44:05,513 - rodeo_main - INFO - Writing output for query #291.	WP_023965029.1
+2024-01-05 12:44:05,518 - record_processing - INFO - Worker process 3 is processing WP_036695566.1
+2024-01-05 12:44:33,626 - rodeo_main - INFO - Writing output for query #292.	WP_025420755.1
+2024-01-05 12:44:33,657 - record_processing - INFO - Worker process 6 is processing WP_006292751.1
+2024-01-05 12:44:43,385 - rodeo_main - INFO - Writing output for query #293.	WP_049954382.1
+2024-01-05 12:44:43,440 - record_processing - INFO - Worker process 4 is processing WP_009622155.1
+2024-01-05 12:44:45,086 - rodeo_main - INFO - Writing output for query #294.	WP_049954312.1
+2024-01-05 12:44:45,086 - record_processing - INFO - Worker process 2 is processing WP_017895043.1
+2024-01-05 12:44:48,481 - rodeo_main - INFO - Writing output for query #295.	WP_051706542.1
+2024-01-05 12:44:48,497 - record_processing - INFO - Worker process 7 is processing WP_051483703.1
+2024-01-05 12:44:56,464 - rodeo_main - INFO - Writing output for query #296.	WP_036670115.1
+2024-01-05 12:44:56,468 - record_processing - INFO - Worker process 5 is processing WP_007963452.1
+2024-01-05 12:44:58,374 - rodeo_main - INFO - Writing output for query #297.	WP_036639301.1
+2024-01-05 12:44:58,379 - record_processing - INFO - Worker process 1 is processing WP_036645823.1
+2024-01-05 12:45:05,606 - rodeo_main - INFO - Writing output for query #298.	WP_036695566.1
+2024-01-05 12:45:05,654 - record_processing - INFO - Worker process 3 is processing WP_052476639.1
+2024-01-05 12:45:41,304 - rodeo_main - INFO - Writing output for query #299.	WP_006292751.1
+2024-01-05 12:45:41,367 - record_processing - INFO - Worker process 4 is processing WP_052539870.1
+2024-01-05 12:45:41,427 - record_processing - INFO - Worker process 6 is processing WP_025332791.1
+2024-01-05 12:45:41,654 - rodeo_main - INFO - Writing output for query #300.	WP_009622155.1
+2024-01-05 12:45:41,873 - record_processing - INFO - Worker process 2 is processing WP_036433466.1
+2024-01-05 12:45:41,876 - rodeo_main - INFO - Writing output for query #301.	WP_017895043.1
+2024-01-05 12:45:46,850 - record_processing - INFO - Worker process 7 is processing WP_032888762.1
+2024-01-05 12:45:46,851 - rodeo_main - INFO - Writing output for query #302.	WP_051483703.1
+2024-01-05 12:45:51,712 - rodeo_main - INFO - Writing output for query #303.	WP_007963452.1
+2024-01-05 12:45:51,714 - record_processing - INFO - Worker process 5 is processing WP_032846767.1
+2024-01-05 12:45:51,851 - rodeo_main - INFO - Writing output for query #304.	WP_036645823.1
+2024-01-05 12:45:51,867 - record_processing - INFO - Worker process 1 is processing WP_032836233.1
+2024-01-05 12:46:06,380 - rodeo_main - INFO - Writing output for query #305.	WP_052476639.1
+2024-01-05 12:46:29,734 - rodeo_main - INFO - Writing output for query #306.	WP_052539870.1
+2024-01-05 12:46:32,695 - rodeo_main - INFO - Writing output for query #307.	WP_025332791.1
+2024-01-05 12:46:33,720 - rodeo_main - INFO - Writing output for query #308.	WP_036433466.1
+2024-01-05 12:46:35,742 - rodeo_main - INFO - Writing output for query #309.	WP_032888762.1
+2024-01-05 12:46:37,446 - rodeo_main - INFO - Writing output for query #310.	WP_032836233.1
+2024-01-05 12:46:38,043 - rodeo_main - INFO - Writing output for query #311.	WP_032846767.1

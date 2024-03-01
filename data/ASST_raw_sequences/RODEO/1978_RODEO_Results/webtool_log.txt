@@ -1,0 +1,4 @@
+[01/05/24 12:01:15 pm] Running RODEO job #1978 submitted on January 5 2024, 9:48 am by ericg 
+[01/05/24 12:01:15 pm] Running RODEO command: python3.8 /home/apps/rodeo/rodeo_main.py /var/www/webtool.ripp.rodeo/jobs/1978/gene_list.txt -c /home/apps/rodeo/confs/default.conf -out /var/www/webtool.ripp.rodeo/jobs/1978/ASST_2  -j 7  
+[01/05/24 12:46:38 pm] RODEO command finished 
+[01/05/24 12:46:38 pm] Preparing results archive: 1978_RODEO_Results.zip 

@@ -1,0 +1,4 @@
+-Code uniprot : A0A2E0UBZ2_9ACTN
+NCBI : https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_002699505.1/
+NCBI accession : SAMN07618165
+

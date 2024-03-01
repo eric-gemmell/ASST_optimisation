@@ -1,0 +1,3 @@
+-Code uniprot : A0A412FUX4_9FIRM
+NCBI : https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_003459085.1/
+NCBI accession :  SAMN09734472

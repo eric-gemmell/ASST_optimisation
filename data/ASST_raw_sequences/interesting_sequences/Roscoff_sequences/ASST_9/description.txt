@@ -1,0 +1,3 @@
+-Code uniprot :  A0A1V2YKS5_9FIRM
+-NCBI : https://www.uniprot.org/uniprotkb/A0A1V2YKS5/entry#sequences 
+-NCBI accession : SAMN05466592

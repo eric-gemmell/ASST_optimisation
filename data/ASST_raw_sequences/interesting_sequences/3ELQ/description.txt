@@ -1,0 +1,1 @@
+sequence from PDB crystalisation. it is a 2 domain ASST, and can catalyse standard reactions on phenols and co. Found in E coli

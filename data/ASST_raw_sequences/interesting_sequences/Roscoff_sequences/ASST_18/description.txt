@@ -1,0 +1,4 @@
+-Code uniprot : A0A0C2A2N2_9DELT, 
+NCBI : https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000737335.2/
+NCBI accession :  SAMN02719576
+

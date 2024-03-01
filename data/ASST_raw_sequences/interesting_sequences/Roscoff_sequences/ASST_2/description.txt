@@ -1,0 +1,10 @@
+ASST_2
+
+B	-Code uniprot : A0A248K4E0_SALBN
+Article : Genome announcements: Correction for Robertson et al., "Completed Genome Sequences of Strains from 36 Serotypes of Salmonella".
+PubMed: 29674559 DOI: 10.1128/genomeA.00333-18
+GOLD : https://gold.jgi.doe.gov/project?id=Gp0033756
+Cultured
+NCBI Accession :  SAMN04160809
+
+

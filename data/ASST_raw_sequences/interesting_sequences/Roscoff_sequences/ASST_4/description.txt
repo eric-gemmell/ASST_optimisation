@@ -1,0 +1,4 @@
+-Code uniprot :  A0A2U4F0H2_9SPIR
+NCBI :  https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000316195.1/ 
+NCBI accession :  SAMN01096567 
+ASST 4 C

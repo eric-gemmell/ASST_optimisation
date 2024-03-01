@@ -1,0 +1,4 @@
+-Code uniprot : A0A2D6FX27_9PROT
+NCBI : https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_002687515.1/
+NCBI accession :  SAMN07619954
+

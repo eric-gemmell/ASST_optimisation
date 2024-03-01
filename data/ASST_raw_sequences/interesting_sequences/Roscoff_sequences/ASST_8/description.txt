@@ -1,0 +1,7 @@
+-Code uniprot : D4LRQ1_9FIRM
+NCBI : https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000210015.1/
+NCBI accession : SAMEA3138360
+-Code uniprot : A0A4U8Q8V6_9FIRM
+NCBI : https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_005519995.1/
+NCBI accession : SAMN09241861
+

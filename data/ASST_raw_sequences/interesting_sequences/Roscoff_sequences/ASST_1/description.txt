@@ -1,0 +1,6 @@
+Article : Genome announcements: Complete Genome Sequence of a Pseudomonas putida Clinical Isolate, Strain H8234.
+PubMed: 23868128 DOI: 10.1128/genomeA.00496-13
+GOLD :  https://gold.jgi.doe.gov/project?id=Gp0041740
+Cultured
+NCBI Accession :  SAMN02604103
+Code uniprot : R9V8X6_PSEPU

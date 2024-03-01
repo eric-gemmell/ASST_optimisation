@@ -1,0 +1,3 @@
+ASTB is the main enzyme used in previous directed evolution rounds, with activity against phenolics, catechols and to a much reduced Km extent, sugars.
+
+

@@ -1,0 +1,4 @@
+-Code uniprot : A0A2N1SMR4_9SPIR
+NCBI : https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_002839355.1/
+NCBI accession : SAMN06767751
+

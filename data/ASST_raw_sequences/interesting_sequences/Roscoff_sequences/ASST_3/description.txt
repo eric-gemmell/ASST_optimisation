@@ -1,0 +1,7 @@
+Code uniprot : D2QAW0_BIFDB
+Article : PLoS genetics: 5(12):e1000785 The Bifidobacterium dentium Bd1 genome sequence reflects its genetic adaptation to the human oral cavity.
+PubMed: 20041198 DOI: 10.1371/journal.pgen.1000785
+GOLD :  https://gold.jgi.doe.gov/project?id=Gp0001040
+Cultured
+NCBI Accession : SAMN02603177
+ ASST 3 C

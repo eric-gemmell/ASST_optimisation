@@ -1,0 +1,6 @@
+-Code uniprot : A0A174U4X1_9CLOT
+Article : Comparative genomics identifies potential virulence factors in Clostridium tertium and C. paraputrificum
+M Muñoz, et al.
+NCBI : https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_002087085.1/
+NCBI accession : SAMN06461300
+

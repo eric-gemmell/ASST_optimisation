@@ -1,0 +1,7 @@
+-Code uniprot : A0A1B7Y5Q8_COLHI
+GOLD : https://gold.jgi.doe.gov/project?id=Gp0220022
+Article : Genome announcements: Genome Sequence and Annotation of Colletotrichum higginsianum, a Causal Agent of Crucifer Anthracnose Disease.
+PubMed: 27540062 DOI: 10.1128/genomeA.00821-16
+Cultured
+NCBI accession : SAMN04420120
+
